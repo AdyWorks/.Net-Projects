@@ -1,0 +1,1 @@
+D:\Other VS projects\WebApplicationUsingREST\RESTfulWCFLibrary\obj\Debug\RESTfulWCFLibrary.csprojResolveAssemblyReference.cache

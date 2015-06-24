@@ -1,0 +1,6 @@
+D:\Other VS projects\ThreadsAndLocking\ThreadsAndLocking\bin\Debug\ThreadsAndLocking.exe.config
+D:\Other VS projects\ThreadsAndLocking\ThreadsAndLocking\bin\Debug\ThreadsAndLocking.exe
+D:\Other VS projects\ThreadsAndLocking\ThreadsAndLocking\bin\Debug\ThreadsAndLocking.pdb
+D:\Other VS projects\ThreadsAndLocking\ThreadsAndLocking\obj\Debug\ThreadsAndLocking.csprojResolveAssemblyReference.cache
+D:\Other VS projects\ThreadsAndLocking\ThreadsAndLocking\obj\Debug\ThreadsAndLocking.exe
+D:\Other VS projects\ThreadsAndLocking\ThreadsAndLocking\obj\Debug\ThreadsAndLocking.pdb

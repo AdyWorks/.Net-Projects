@@ -1,0 +1,5 @@
+D:\Other VS projects\Threading\BackgroundForegroundThreads\bin\Debug\BackgroundForegroundThreads.exe.config
+D:\Other VS projects\Threading\BackgroundForegroundThreads\bin\Debug\BackgroundForegroundThreads.exe
+D:\Other VS projects\Threading\BackgroundForegroundThreads\bin\Debug\BackgroundForegroundThreads.pdb
+D:\Other VS projects\Threading\BackgroundForegroundThreads\obj\Debug\BackgroundForegroundThreads.exe
+D:\Other VS projects\Threading\BackgroundForegroundThreads\obj\Debug\BackgroundForegroundThreads.pdb

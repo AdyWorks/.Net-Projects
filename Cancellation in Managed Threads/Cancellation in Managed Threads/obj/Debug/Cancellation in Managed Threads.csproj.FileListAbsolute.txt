@@ -1,0 +1,6 @@
+D:\Other VS projects\Cancellation in Managed Threads\Cancellation in Managed Threads\bin\Debug\Cancellation in Managed Threads.exe.config
+D:\Other VS projects\Cancellation in Managed Threads\Cancellation in Managed Threads\bin\Debug\Cancellation in Managed Threads.exe
+D:\Other VS projects\Cancellation in Managed Threads\Cancellation in Managed Threads\bin\Debug\Cancellation in Managed Threads.pdb
+D:\Other VS projects\Cancellation in Managed Threads\Cancellation in Managed Threads\obj\Debug\Cancellation in Managed Threads.csprojResolveAssemblyReference.cache
+D:\Other VS projects\Cancellation in Managed Threads\Cancellation in Managed Threads\obj\Debug\Cancellation in Managed Threads.exe
+D:\Other VS projects\Cancellation in Managed Threads\Cancellation in Managed Threads\obj\Debug\Cancellation in Managed Threads.pdb

@@ -1,0 +1,5 @@
+D:\Other VS projects\TestMethods\TestMethods\bin\Debug\TestMethods.exe.config
+D:\Other VS projects\TestMethods\TestMethods\bin\Debug\TestMethods.exe
+D:\Other VS projects\TestMethods\TestMethods\bin\Debug\TestMethods.pdb
+D:\Other VS projects\TestMethods\TestMethods\obj\Debug\TestMethods.exe
+D:\Other VS projects\TestMethods\TestMethods\obj\Debug\TestMethods.pdb

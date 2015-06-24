@@ -1,0 +1,6 @@
+D:\Other VS projects\Threading\ThreadWithCommonMember\bin\Debug\ThreadWithCommonMember.exe.config
+D:\Other VS projects\Threading\ThreadWithCommonMember\bin\Debug\ThreadWithCommonMember.exe
+D:\Other VS projects\Threading\ThreadWithCommonMember\bin\Debug\ThreadWithCommonMember.pdb
+D:\Other VS projects\Threading\ThreadWithCommonMember\obj\Debug\ThreadWithCommonMember.csprojResolveAssemblyReference.cache
+D:\Other VS projects\Threading\ThreadWithCommonMember\obj\Debug\ThreadWithCommonMember.exe
+D:\Other VS projects\Threading\ThreadWithCommonMember\obj\Debug\ThreadWithCommonMember.pdb

@@ -1,0 +1,6 @@
+D:\Other VS projects\Threading\ThreadWithName\bin\Debug\ThreadWithName.exe.config
+D:\Other VS projects\Threading\ThreadWithName\obj\Debug\ThreadWithName.csprojResolveAssemblyReference.cache
+D:\Other VS projects\Threading\ThreadWithName\bin\Debug\ThreadWithName.exe
+D:\Other VS projects\Threading\ThreadWithName\bin\Debug\ThreadWithName.pdb
+D:\Other VS projects\Threading\ThreadWithName\obj\Debug\ThreadWithName.exe
+D:\Other VS projects\Threading\ThreadWithName\obj\Debug\ThreadWithName.pdb
