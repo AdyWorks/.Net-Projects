@@ -1,0 +1,10 @@
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\bin\Release\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\bin\Release\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Release\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Release\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Release\POCOLibrary.csprojResolveAssemblyReference.cache
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\POCOLibrary\bin\Release\POCOLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\POCOLibrary\bin\Release\POCOLibrary.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\POCOLibrary\obj\Release\POCOLibrary.csprojResolveAssemblyReference.cache
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\POCOLibrary\obj\Release\POCOLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\POCOLibrary\obj\Release\POCOLibrary.pdb

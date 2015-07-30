@@ -1,0 +1,5 @@
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\SimpleLiskovSubstitutionPrinciple\bin\Debug\SimpleLiskovSubstitutionPrinciple.exe.config
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\SimpleLiskovSubstitutionPrinciple\bin\Debug\SimpleLiskovSubstitutionPrinciple.exe
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\SimpleLiskovSubstitutionPrinciple\bin\Debug\SimpleLiskovSubstitutionPrinciple.pdb
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\SimpleLiskovSubstitutionPrinciple\obj\Debug\SimpleLiskovSubstitutionPrinciple.exe
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\SimpleLiskovSubstitutionPrinciple\obj\Debug\SimpleLiskovSubstitutionPrinciple.pdb

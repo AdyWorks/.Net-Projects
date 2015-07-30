@@ -1,0 +1,30 @@
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\WebAPICommonLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\WebAPICommonLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\POCOLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\System.Web.Http.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\POCOLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\System.Web.Http.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\WebAPICommonLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\WebAPICommonLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Debug\WebAPICommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Debug\WebAPICommonLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Debug\WebAPICommonLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\WebAPICommonLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Debug\WebAPICommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Debug\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Debug\WebAPICommonLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\obj\Debug\WebAPICommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\obj\Debug\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\obj\Debug\WebAPICommonLibrary.pdb
+D:\CodeProject\WebAPI_Thoughts\bin\WebAPICommonLibrary.dll
+D:\CodeProject\WebAPI_Thoughts\bin\WebAPICommonLibrary.pdb
+D:\CodeProject\WebAPI_Thoughts\WebAPICommonLibrary\obj\Debug\WebAPICommonLibrary.csprojResolveAssemblyReference.cache
+D:\CodeProject\WebAPI_Thoughts\WebAPICommonLibrary\obj\Debug\WebAPICommonLibrary.dll
+D:\CodeProject\WebAPI_Thoughts\WebAPICommonLibrary\obj\Debug\WebAPICommonLibrary.pdb

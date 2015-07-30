@@ -1,0 +1,6 @@
+D:\Other VS projects\CustomEventHandler\CustomEventHandler\bin\Debug\CustomEventHandler.exe.config
+D:\Other VS projects\CustomEventHandler\CustomEventHandler\obj\Debug\CustomEventHandler.csprojResolveAssemblyReference.cache
+D:\Other VS projects\CustomEventHandler\CustomEventHandler\bin\Debug\CustomEventHandler.exe
+D:\Other VS projects\CustomEventHandler\CustomEventHandler\bin\Debug\CustomEventHandler.pdb
+D:\Other VS projects\CustomEventHandler\CustomEventHandler\obj\Debug\CustomEventHandler.exe
+D:\Other VS projects\CustomEventHandler\CustomEventHandler\obj\Debug\CustomEventHandler.pdb

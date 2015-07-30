@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICommonLibrary", "WebAPICommonLibrary\WebAPICommonLibrary.csproj", "{900E9938-AB16-4875-AC52-CAF80520E5F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIClient", "WebAPIClient\WebAPIClient.csproj", "{6EF8D990-DD2C-482B-8D55-D1299BB5D0D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIDataStreaming", "WebAPIDataStreaming\WebAPIDataStreaming.csproj", "{AB5D1902-AC7C-450F-8CEF-AAA3EF4B2143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCOLibrary", "POCOLibrary\POCOLibrary.csproj", "{B2F76551-5F7E-4731-80EA-58DACBC46448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900E9938-AB16-4875-AC52-CAF80520E5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900E9938-AB16-4875-AC52-CAF80520E5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900E9938-AB16-4875-AC52-CAF80520E5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900E9938-AB16-4875-AC52-CAF80520E5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF8D990-DD2C-482B-8D55-D1299BB5D0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF8D990-DD2C-482B-8D55-D1299BB5D0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF8D990-DD2C-482B-8D55-D1299BB5D0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF8D990-DD2C-482B-8D55-D1299BB5D0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5D1902-AC7C-450F-8CEF-AAA3EF4B2143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5D1902-AC7C-450F-8CEF-AAA3EF4B2143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5D1902-AC7C-450F-8CEF-AAA3EF4B2143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5D1902-AC7C-450F-8CEF-AAA3EF4B2143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F76551-5F7E-4731-80EA-58DACBC46448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F76551-5F7E-4731-80EA-58DACBC46448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F76551-5F7E-4731-80EA-58DACBC46448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F76551-5F7E-4731-80EA-58DACBC46448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

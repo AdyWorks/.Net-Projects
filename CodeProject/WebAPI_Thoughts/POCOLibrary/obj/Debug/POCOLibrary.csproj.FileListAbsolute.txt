@@ -1,0 +1,17 @@
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\bin\Debug\POCOLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\bin\Debug\POCOLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\POCOLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\POCOLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\bin\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.csprojResolveAssemblyReference.cache
+D:\CodeProject\WebAPI_Thoughts\bin\POCOLibrary.dll
+D:\CodeProject\WebAPI_Thoughts\bin\POCOLibrary.pdb
+D:\CodeProject\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.csprojResolveAssemblyReference.cache
+D:\CodeProject\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.dll
+D:\CodeProject\WebAPI_Thoughts\POCOLibrary\obj\Debug\POCOLibrary.pdb

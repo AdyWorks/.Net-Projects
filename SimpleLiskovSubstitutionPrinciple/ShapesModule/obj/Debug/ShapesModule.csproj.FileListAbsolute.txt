@@ -1,0 +1,5 @@
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule\bin\Debug\ShapesModule.dll
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule\bin\Debug\ShapesModule.pdb
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule\obj\Debug\ShapesModule.csprojResolveAssemblyReference.cache
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule\obj\Debug\ShapesModule.dll
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule\obj\Debug\ShapesModule.pdb

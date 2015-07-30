@@ -1,0 +1,6 @@
+D:\Other VS projects\DisposingOfObjects\DisposingOfObjects\bin\Debug\DisposingOfObjects.exe.config
+D:\Other VS projects\DisposingOfObjects\DisposingOfObjects\bin\Debug\DisposingOfObjects.exe
+D:\Other VS projects\DisposingOfObjects\DisposingOfObjects\bin\Debug\DisposingOfObjects.pdb
+D:\Other VS projects\DisposingOfObjects\DisposingOfObjects\obj\Debug\DisposingOfObjects.exe
+D:\Other VS projects\DisposingOfObjects\DisposingOfObjects\obj\Debug\DisposingOfObjects.pdb
+D:\Other VS projects\DisposingOfObjects\DisposingOfObjects\obj\Debug\DisposingOfObjects.csprojResolveAssemblyReference.cache

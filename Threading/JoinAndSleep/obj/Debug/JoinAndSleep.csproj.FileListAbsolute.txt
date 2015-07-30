@@ -1,5 +1,6 @@
 D:\Other VS projects\Threading\JoinAndSleep\bin\Debug\JoinAndSleep.exe.config
 D:\Other VS projects\Threading\JoinAndSleep\bin\Debug\JoinAndSleep.exe
 D:\Other VS projects\Threading\JoinAndSleep\bin\Debug\JoinAndSleep.pdb
+D:\Other VS projects\Threading\JoinAndSleep\obj\Debug\JoinAndSleep.csprojResolveAssemblyReference.cache
 D:\Other VS projects\Threading\JoinAndSleep\obj\Debug\JoinAndSleep.exe
 D:\Other VS projects\Threading\JoinAndSleep\obj\Debug\JoinAndSleep.pdb

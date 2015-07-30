@@ -1,0 +1,76 @@
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.exe.config
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.exe
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\CommonLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.SelfHost.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\CommonLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.SelfHost.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.csprojResolveAssemblyReference.cache
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.exe
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.exe.config
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.exe
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Owin.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.Owin.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.SelfHost.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPICommonLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.Owin.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.SelfHost.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.csprojResolveAssemblyReference.cache
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.exe
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.exe.config
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.exe
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPIClient.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Hosting.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Newtonsoft.Json.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Owin.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\POCOLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Net.Http.Formatting.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.Owin.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.SelfHost.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.WebHost.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPICommonLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\WebAPICommonLibrary.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\POCOLibrary.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Microsoft.Owin.Hosting.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\Newtonsoft.Json.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Net.Http.Formatting.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.Owin.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.SelfHost.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\bin\Release\System.Web.Http.WebHost.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.csprojResolveAssemblyReference.cache
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.exe
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIClient\obj\Release\WebAPIClient.pdb

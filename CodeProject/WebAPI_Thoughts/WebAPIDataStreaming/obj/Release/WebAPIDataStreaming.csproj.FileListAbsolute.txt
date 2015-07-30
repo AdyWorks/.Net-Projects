@@ -1,0 +1,65 @@
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\WebAPIDataStreaming.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\WebAPIDataStreaming.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\Antlr3.Runtime.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\Newtonsoft.Json.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Net.Http.Formatting.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Helpers.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.WebHost.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Mvc.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Optimization.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Razor.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Razor.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\WebGrease.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\Newtonsoft.Json.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Net.Http.Formatting.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Helpers.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.WebHost.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Mvc.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Optimization.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Razor.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Razor.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\bin\Antlr3.Runtime.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\obj\Release\WebAPIDataStreaming.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPIDataStreaming\obj\Release\WebAPIDataStreaming.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\WebAPIDataStreaming.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\WebAPIDataStreaming.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\Antlr3.Runtime.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\Microsoft.Web.Infrastructure.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\Newtonsoft.Json.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\POCOLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Net.Http.Formatting.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Helpers.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.WebHost.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Mvc.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Optimization.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Razor.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Deployment.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Razor.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\WebGrease.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\POCOLibrary.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\Newtonsoft.Json.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Net.Http.Formatting.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Helpers.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Http.WebHost.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Mvc.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Optimization.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.Razor.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Deployment.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\System.Web.WebPages.Razor.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\bin\Antlr3.Runtime.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\obj\Release\WebAPIDataStreaming.csprojResolveAssemblyReference.cache
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\obj\Release\WebAPIDataStreaming.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPIDataStreaming\obj\Release\WebAPIDataStreaming.pdb

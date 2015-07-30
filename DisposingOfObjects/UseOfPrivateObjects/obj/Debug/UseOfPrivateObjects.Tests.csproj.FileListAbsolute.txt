@@ -1,0 +1,7 @@
+D:\Other VS projects\DisposingOfObjects\UseOfPrivateObjects\obj\Debug\UseOfPrivateObjects.Tests.csprojResolveAssemblyReference.cache
+D:\Other VS projects\DisposingOfObjects\UseOfPrivateObjects\bin\Debug\UseOfPrivateObjects.dll
+D:\Other VS projects\DisposingOfObjects\UseOfPrivateObjects\bin\Debug\UseOfPrivateObjects.pdb
+D:\Other VS projects\DisposingOfObjects\UseOfPrivateObjects\bin\Debug\DisposingOfObjects.exe
+D:\Other VS projects\DisposingOfObjects\UseOfPrivateObjects\bin\Debug\DisposingOfObjects.pdb
+D:\Other VS projects\DisposingOfObjects\UseOfPrivateObjects\obj\Debug\UseOfPrivateObjects.dll
+D:\Other VS projects\DisposingOfObjects\UseOfPrivateObjects\obj\Debug\UseOfPrivateObjects.pdb

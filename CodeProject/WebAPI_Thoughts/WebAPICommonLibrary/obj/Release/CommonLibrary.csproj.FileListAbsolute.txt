@@ -1,0 +1,13 @@
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\CommonLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\CommonLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\obj\Release\CommonLibrary.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\obj\Release\CommonLibrary.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\CommonLibrary\obj\Release\CommonLibrary.csprojResolveAssemblyReference.cache

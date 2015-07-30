@@ -1,5 +1,6 @@
 D:\Other VS projects\Threading\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
 D:\Other VS projects\Threading\ExceptionHandling\bin\Debug\ExceptionHandling.exe
 D:\Other VS projects\Threading\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Other VS projects\Threading\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
 D:\Other VS projects\Threading\ExceptionHandling\obj\Debug\ExceptionHandling.exe
 D:\Other VS projects\Threading\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

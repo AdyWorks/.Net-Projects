@@ -1,0 +1,7 @@
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule.Tests\bin\Debug\ShapesModule.Tests.dll
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule.Tests\bin\Debug\ShapesModule.Tests.pdb
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule.Tests\bin\Debug\ShapesModule.dll
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule.Tests\bin\Debug\ShapesModule.pdb
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule.Tests\obj\Debug\ShapesModule.Tests.csprojResolveAssemblyReference.cache
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule.Tests\obj\Debug\ShapesModule.Tests.dll
+D:\Other VS projects\SimpleLiskovSubstitutionPrinciple\ShapesModule.Tests\obj\Debug\ShapesModule.Tests.pdb

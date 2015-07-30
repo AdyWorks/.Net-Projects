@@ -1,0 +1,9 @@
+D:\Other VS projects\Threading\ThreadPool\bin\Debug\Resources\LargeFile.txt
+D:\Other VS projects\Threading\ThreadPool\bin\Debug\ThreadPool.exe.config
+D:\Other VS projects\Threading\ThreadPool\bin\Debug\ThreadPool.exe
+D:\Other VS projects\Threading\ThreadPool\bin\Debug\ThreadPool.pdb
+D:\Other VS projects\Threading\ThreadPool\bin\Debug\DataAccessLayer.dll
+D:\Other VS projects\Threading\ThreadPool\bin\Debug\DataAccessLayer.pdb
+D:\Other VS projects\Threading\ThreadPool\obj\Debug\ThreadPool.csprojResolveAssemblyReference.cache
+D:\Other VS projects\Threading\ThreadPool\obj\Debug\ThreadPool.exe
+D:\Other VS projects\Threading\ThreadPool\obj\Debug\ThreadPool.pdb

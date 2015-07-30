@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLiskovSubstitutionPrinciple", "SimpleLiskovSubstitutionPrinciple\SimpleLiskovSubstitutionPrinciple.csproj", "{15A7BADE-F130-462F-8302-DACCC87A509B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesModule", "ShapesModule\ShapesModule.csproj", "{113705CF-6455-4E59-AADA-6E1718DB5E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesModule.Tests", "ShapesModule.Tests\ShapesModule.Tests.csproj", "{06C26963-C753-491C-9683-9C6094756DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Release|ARM.ActiveCfg = Release|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Release|x64.ActiveCfg = Release|Any CPU
+		{15A7BADE-F130-462F-8302-DACCC87A509B}.Release|x86.ActiveCfg = Release|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Release|ARM.ActiveCfg = Release|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Release|x64.ActiveCfg = Release|Any CPU
+		{113705CF-6455-4E59-AADA-6E1718DB5E28}.Release|x86.ActiveCfg = Release|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Release|ARM.ActiveCfg = Release|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Release|x64.ActiveCfg = Release|Any CPU
+		{06C26963-C753-491C-9683-9C6094756DDB}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\WebAPIDataStreamingClient.exe.config
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\WebAPIDataStreamingClient.exe
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\WebAPIDataStreamingClient.pdb
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\System.Web.Http.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\System.Web.Http.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\obj\Debug\WebAPIDataStreamingClient.csprojResolveAssemblyReference.cache
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\obj\Debug\WebAPIDataStreamingClient.exe
+C:\Users\e1zdk67\Documents\Visual Studio 2013\Projects\WebAPI_Thoughts\WebAPIDataStreamingClient\obj\Debug\WebAPIDataStreamingClient.pdb

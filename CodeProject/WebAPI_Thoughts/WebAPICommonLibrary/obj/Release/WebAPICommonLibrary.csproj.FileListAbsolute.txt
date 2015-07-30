@@ -1,0 +1,45 @@
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\WebAPICommonLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Release\WebAPICommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Release\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\CommonLibrary\obj\Release\WebAPICommonLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\WebAPICommonLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\POCOLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\POCOLibrary.pdb
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\obj\Release\WebAPICommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\obj\Release\WebAPICommonLibrary.dll
+C:\Users\ej5hn3j\Documents\Visual Studio 2012\Projects\WebAPI_Thoughts\WebAPICommonLibrary\obj\Release\WebAPICommonLibrary.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\WebAPICommonLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\WebAPICommonLibrary.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\Newtonsoft.Json.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\POCOLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Net.Http.Formatting.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.WebHost.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\POCOLibrary.pdb
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\Newtonsoft.Json.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Net.Http.Formatting.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\bin\Release\System.Web.Http.WebHost.xml
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\obj\Release\WebAPICommonLibrary.csprojResolveAssemblyReference.cache
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\obj\Release\WebAPICommonLibrary.dll
+E:\Desktop\Web Api Publish docs\Web API Thoughts 1 of 3 - Data Streaming\WebAPI_Thoughts\WebAPICommonLibrary\obj\Release\WebAPICommonLibrary.pdb
