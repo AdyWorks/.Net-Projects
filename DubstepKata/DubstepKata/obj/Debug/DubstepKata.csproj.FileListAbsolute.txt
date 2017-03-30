@@ -1,0 +1,6 @@
+D:\Other VS projects\DubstepKata\DubstepKata\bin\Debug\DubstepKata.exe.config
+D:\Other VS projects\DubstepKata\DubstepKata\obj\Debug\DubstepKata.csprojResolveAssemblyReference.cache
+D:\Other VS projects\DubstepKata\DubstepKata\bin\Debug\DubstepKata.exe
+D:\Other VS projects\DubstepKata\DubstepKata\bin\Debug\DubstepKata.pdb
+D:\Other VS projects\DubstepKata\DubstepKata\obj\Debug\DubstepKata.exe
+D:\Other VS projects\DubstepKata\DubstepKata\obj\Debug\DubstepKata.pdb

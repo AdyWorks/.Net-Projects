@@ -1,0 +1,6 @@
+D:\Other VS projects\TestEnumAsString\TestEnumAsString\bin\Debug\TestEnumAsString.exe.config
+D:\Other VS projects\TestEnumAsString\TestEnumAsString\bin\Debug\TestEnumAsString.exe
+D:\Other VS projects\TestEnumAsString\TestEnumAsString\bin\Debug\TestEnumAsString.pdb
+D:\Other VS projects\TestEnumAsString\TestEnumAsString\obj\Debug\TestEnumAsString.csprojResolveAssemblyReference.cache
+D:\Other VS projects\TestEnumAsString\TestEnumAsString\obj\Debug\TestEnumAsString.exe
+D:\Other VS projects\TestEnumAsString\TestEnumAsString\obj\Debug\TestEnumAsString.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DubstepKata", "DubstepKata\DubstepKata.csproj", "{6BBCAD64-0333-4243-99AF-DCFCBCB6CFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToSquareOrNotToSquare", "ToSquareOrNotToSquare\ToSquareOrNotToSquare.csproj", "{CED64F3F-666C-41F2-942B-1AF1DE7D846E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateIntRange", "GenerateIntRange\GenerateIntRange.csproj", "{FFFFE515-9440-4813-9ECA-F8816966D07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBCAD64-0333-4243-99AF-DCFCBCB6CFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBCAD64-0333-4243-99AF-DCFCBCB6CFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBCAD64-0333-4243-99AF-DCFCBCB6CFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBCAD64-0333-4243-99AF-DCFCBCB6CFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED64F3F-666C-41F2-942B-1AF1DE7D846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED64F3F-666C-41F2-942B-1AF1DE7D846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED64F3F-666C-41F2-942B-1AF1DE7D846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED64F3F-666C-41F2-942B-1AF1DE7D846E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFFE515-9440-4813-9ECA-F8816966D07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFFE515-9440-4813-9ECA-F8816966D07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFFE515-9440-4813-9ECA-F8816966D07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFFE515-9440-4813-9ECA-F8816966D07F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

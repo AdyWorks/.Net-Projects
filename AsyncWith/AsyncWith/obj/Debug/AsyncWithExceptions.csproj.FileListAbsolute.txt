@@ -1,0 +1,6 @@
+D:\Other VS projects\AsyncWith\AsyncWith\bin\Debug\AsyncWithExceptions.exe.config
+D:\Other VS projects\AsyncWith\AsyncWith\bin\Debug\AsyncWithExceptions.exe
+D:\Other VS projects\AsyncWith\AsyncWith\bin\Debug\AsyncWithExceptions.pdb
+D:\Other VS projects\AsyncWith\AsyncWith\obj\Debug\AsyncWithExceptions.csprojResolveAssemblyReference.cache
+D:\Other VS projects\AsyncWith\AsyncWith\obj\Debug\AsyncWithExceptions.exe
+D:\Other VS projects\AsyncWith\AsyncWith\obj\Debug\AsyncWithExceptions.pdb

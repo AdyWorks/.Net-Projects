@@ -1,0 +1,6 @@
+D:\Other VS projects\HttpClientTool\Test\bin\Debug\Test.exe.config
+D:\Other VS projects\HttpClientTool\Test\bin\Debug\Test.exe
+D:\Other VS projects\HttpClientTool\Test\bin\Debug\Test.pdb
+D:\Other VS projects\HttpClientTool\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Other VS projects\HttpClientTool\Test\obj\Debug\Test.exe
+D:\Other VS projects\HttpClientTool\Test\obj\Debug\Test.pdb

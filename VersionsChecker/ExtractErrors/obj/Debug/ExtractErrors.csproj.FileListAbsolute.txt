@@ -1,0 +1,6 @@
+D:\Other VS projects\VersionsChecker\ExtractErrors\bin\Debug\ExtractErrors.exe.config
+D:\Other VS projects\VersionsChecker\ExtractErrors\bin\Debug\ExtractErrors.exe
+D:\Other VS projects\VersionsChecker\ExtractErrors\bin\Debug\ExtractErrors.pdb
+D:\Other VS projects\VersionsChecker\ExtractErrors\obj\Debug\ExtractErrors.csprojResolveAssemblyReference.cache
+D:\Other VS projects\VersionsChecker\ExtractErrors\obj\Debug\ExtractErrors.exe
+D:\Other VS projects\VersionsChecker\ExtractErrors\obj\Debug\ExtractErrors.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ZetaLongPaths</id>
+    <version>1.0.0.9</version>
+    <title>Zeta Long Paths</title>
+    <authors>Uwe Keim</authors>
+    <owners>Uwe Keim</owners>
+    <projectUrl>https://github.com/UweKeim/ZetaLongPaths</projectUrl>
+    <iconUrl>http://i.imgur.com/hwoCiuq.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET library to access files and directories with more than 260 characters length.</description>
+    <summary>A .NET library to access files and directories with more than 260 characters length.</summary>
+    <language>en-US</language>
+    <tags>file io</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework2.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

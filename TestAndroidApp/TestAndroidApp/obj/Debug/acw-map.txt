@@ -1,0 +1,4 @@
+TestAndroidApp.MainActivity, TestAndroidApp;md59577ff06c895181b80251d9a606e8a16.MainActivity
+TestAndroidApp.MainActivity, TestAndroidApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59577ff06c895181b80251d9a606e8a16.MainActivity
+TestAndroidApp.MainActivity;md59577ff06c895181b80251d9a606e8a16.MainActivity
+testandroidapp.MainActivity;md59577ff06c895181b80251d9a606e8a16.MainActivity

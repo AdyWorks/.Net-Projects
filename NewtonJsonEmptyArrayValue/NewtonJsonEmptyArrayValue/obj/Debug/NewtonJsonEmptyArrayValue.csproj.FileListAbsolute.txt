@@ -1,0 +1,8 @@
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\bin\Debug\NewtonJsonEmptyArrayValue.exe.config
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\bin\Debug\NewtonJsonEmptyArrayValue.exe
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\bin\Debug\NewtonJsonEmptyArrayValue.pdb
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\bin\Debug\Newtonsoft.Json.dll
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\bin\Debug\Newtonsoft.Json.xml
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\obj\Debug\NewtonJsonEmptyArrayValue.csprojResolveAssemblyReference.cache
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\obj\Debug\NewtonJsonEmptyArrayValue.exe
+D:\Other VS projects\NewtonJsonEmptyArrayValue\NewtonJsonEmptyArrayValue\obj\Debug\NewtonJsonEmptyArrayValue.pdb

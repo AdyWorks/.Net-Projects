@@ -1,0 +1,6 @@
+D:\Other VS projects\GenerateListOfInts\GenerateListOfInts\bin\Debug\GenerateListOfInts.exe.config
+D:\Other VS projects\GenerateListOfInts\GenerateListOfInts\bin\Debug\GenerateListOfInts.exe
+D:\Other VS projects\GenerateListOfInts\GenerateListOfInts\bin\Debug\GenerateListOfInts.pdb
+D:\Other VS projects\GenerateListOfInts\GenerateListOfInts\obj\Debug\GenerateListOfInts.csprojResolveAssemblyReference.cache
+D:\Other VS projects\GenerateListOfInts\GenerateListOfInts\obj\Debug\GenerateListOfInts.exe
+D:\Other VS projects\GenerateListOfInts\GenerateListOfInts\obj\Debug\GenerateListOfInts.pdb

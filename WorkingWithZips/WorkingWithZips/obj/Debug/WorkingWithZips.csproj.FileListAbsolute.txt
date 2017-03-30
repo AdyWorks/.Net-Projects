@@ -1,0 +1,7 @@
+D:\Other VS projects\WorkingWithZips\WorkingWithZips\bin\Debug\WorkingWithZips.exe.config
+D:\Other VS projects\WorkingWithZips\WorkingWithZips\bin\Debug\WorkingWithZips.exe
+D:\Other VS projects\WorkingWithZips\WorkingWithZips\bin\Debug\WorkingWithZips.pdb
+D:\Other VS projects\WorkingWithZips\WorkingWithZips\obj\Debug\WorkingWithZips.csprojResolveAssemblyReference.cache
+D:\Other VS projects\WorkingWithZips\WorkingWithZips\obj\Debug\WorkingWithZips.exe
+D:\Other VS projects\WorkingWithZips\WorkingWithZips\obj\Debug\WorkingWithZips.pdb
+D:\Other VS projects\WorkingWithZips\WorkingWithZips\bin\Debug\ICSharpCode.SharpZipLib.dll

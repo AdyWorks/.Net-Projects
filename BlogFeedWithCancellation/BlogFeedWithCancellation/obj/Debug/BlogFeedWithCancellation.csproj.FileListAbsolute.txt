@@ -1,0 +1,10 @@
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\App.g.i.cs
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\App.g.cs
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\MainPage.g.i.cs
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\MainPage.g.cs
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\XamlTypeInfo.g.cs
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\App.xaml
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\App.xbf
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\XamlSaveStateFile.xml
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\MainPage.xaml
+D:\Other VS projects\BlogFeedWithCancellation\BlogFeedWithCancellation\obj\Debug\MainPage.xbf

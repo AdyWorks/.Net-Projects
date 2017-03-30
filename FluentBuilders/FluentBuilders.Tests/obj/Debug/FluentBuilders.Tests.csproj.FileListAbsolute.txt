@@ -1,0 +1,8 @@
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\obj\Debug\FluentBuilders.Tests.csprojResolveAssemblyReference.cache
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\bin\Debug\FluentBuilders.Tests.dll
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\bin\Debug\FluentBuilders.Tests.pdb
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\bin\Debug\FluentBuilders.exe
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\bin\Debug\FluentBuilders.pdb
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\obj\Debug\FluentBuilders.Tests.dll
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\obj\Debug\FluentBuilders.Tests.pdb
+D:\Other VS projects\FluentBuilders\FluentBuilders.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

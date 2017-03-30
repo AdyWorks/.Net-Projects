@@ -1,0 +1,6 @@
+D:\Other VS projects\HttpClientTool\TaskFaulted\bin\Debug\TaskFaulted.exe.config
+D:\Other VS projects\HttpClientTool\TaskFaulted\bin\Debug\TaskFaulted.exe
+D:\Other VS projects\HttpClientTool\TaskFaulted\bin\Debug\TaskFaulted.pdb
+D:\Other VS projects\HttpClientTool\TaskFaulted\obj\Debug\TaskFaulted.csprojResolveAssemblyReference.cache
+D:\Other VS projects\HttpClientTool\TaskFaulted\obj\Debug\TaskFaulted.exe
+D:\Other VS projects\HttpClientTool\TaskFaulted\obj\Debug\TaskFaulted.pdb

@@ -1,0 +1,8 @@
+D:\Other VS projects\TestLongPaths\TestLongPaths\bin\Debug\TestLongPaths.exe.config
+D:\Other VS projects\TestLongPaths\TestLongPaths\bin\Debug\TestLongPaths.exe
+D:\Other VS projects\TestLongPaths\TestLongPaths\bin\Debug\TestLongPaths.pdb
+D:\Other VS projects\TestLongPaths\TestLongPaths\obj\Debug\TestLongPaths.csprojResolveAssemblyReference.cache
+D:\Other VS projects\TestLongPaths\TestLongPaths\obj\Debug\TestLongPaths.exe
+D:\Other VS projects\TestLongPaths\TestLongPaths\obj\Debug\TestLongPaths.pdb
+D:\Other VS projects\TestLongPaths\TestLongPaths\bin\Debug\ZetaLongPaths.dll
+D:\Other VS projects\TestLongPaths\TestLongPaths\bin\Debug\ZetaLongPaths.pdb

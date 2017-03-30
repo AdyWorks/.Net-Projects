@@ -1,0 +1,12 @@
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\HttpUploadService.exe.config
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\HttpUploadService.exe
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\HttpUploadService.pdb
+D:\Other VS projects\HttpUploadService\HttpUploadService\obj\Debug\HttpUploadService.csprojResolveAssemblyReference.cache
+D:\Other VS projects\HttpUploadService\HttpUploadService\obj\Debug\HttpUploadService.exe
+D:\Other VS projects\HttpUploadService\HttpUploadService\obj\Debug\HttpUploadService.pdb
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\NLog.config
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\Newtonsoft.Json.dll
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\NLog.dll
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\Newtonsoft.Json.xml
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\NLog.xml
+D:\Other VS projects\HttpUploadService\HttpUploadService\bin\Debug\Resources\Response.html

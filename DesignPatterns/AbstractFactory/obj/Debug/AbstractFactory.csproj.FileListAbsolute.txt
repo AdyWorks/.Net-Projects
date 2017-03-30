@@ -1,0 +1,6 @@
+D:\Other VS projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\Other VS projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\Other VS projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Other VS projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\Other VS projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\Other VS projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

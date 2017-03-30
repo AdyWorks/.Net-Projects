@@ -1,0 +1,9 @@
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\TestAndroidApp.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\Mono.Android.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\mscorlib.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\System.Core.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\System.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\System.Xml.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\assemblies\System.ServiceModel.Internals.dll

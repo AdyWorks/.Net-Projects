@@ -1,0 +1,15 @@
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\HttpClientTool.exe.config
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\HttpClientTool.exe
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\HttpClientTool.pdb
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\Newtonsoft.Json.dll
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\System.Net.Http.Extensions.dll
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\System.Net.Http.Formatting.dll
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\System.Net.Http.Primitives.dll
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\Newtonsoft.Json.xml
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\System.Net.Http.Extensions.xml
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\System.Net.Http.Formatting.xml
+D:\Other VS projects\HttpClientTool\HttpClientTool\bin\Debug\System.Net.Http.Primitives.xml
+D:\Other VS projects\HttpClientTool\HttpClientTool\obj\Debug\HttpClientTool.csproj.App.config
+D:\Other VS projects\HttpClientTool\HttpClientTool\obj\Debug\HttpClientTool.csprojResolveAssemblyReference.cache
+D:\Other VS projects\HttpClientTool\HttpClientTool\obj\Debug\HttpClientTool.exe
+D:\Other VS projects\HttpClientTool\HttpClientTool\obj\Debug\HttpClientTool.pdb

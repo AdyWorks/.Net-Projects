@@ -1,0 +1,8 @@
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\bin\Debug\DeleteServiceClient.exe.config
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\bin\Debug\DeleteServiceClient.exe
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\bin\Debug\DeleteServiceClient.pdb
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\bin\Debug\RabbitMQ.Client.dll
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\bin\Debug\RabbitMQ.Client.xml
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\obj\Debug\DeleteServiceClient.csprojResolveAssemblyReference.cache
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\obj\Debug\DeleteServiceClient.exe
+D:\Other VS projects\DeleteServiceHost\DeleteServiceClient\obj\Debug\DeleteServiceClient.pdb

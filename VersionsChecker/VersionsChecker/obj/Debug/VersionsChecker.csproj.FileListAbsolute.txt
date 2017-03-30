@@ -1,0 +1,6 @@
+D:\Other VS projects\VersionsChecker\VersionsChecker\bin\Debug\VersionsChecker.exe.config
+D:\Other VS projects\VersionsChecker\VersionsChecker\bin\Debug\VersionsChecker.exe
+D:\Other VS projects\VersionsChecker\VersionsChecker\bin\Debug\VersionsChecker.pdb
+D:\Other VS projects\VersionsChecker\VersionsChecker\obj\Debug\VersionsChecker.csprojResolveAssemblyReference.cache
+D:\Other VS projects\VersionsChecker\VersionsChecker\obj\Debug\VersionsChecker.exe
+D:\Other VS projects\VersionsChecker\VersionsChecker\obj\Debug\VersionsChecker.pdb

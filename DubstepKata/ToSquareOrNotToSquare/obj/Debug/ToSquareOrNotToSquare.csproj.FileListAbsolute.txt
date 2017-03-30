@@ -1,0 +1,6 @@
+D:\Other VS projects\DubstepKata\ToSquareOrNotToSquare\bin\Debug\ToSquareOrNotToSquare.exe.config
+D:\Other VS projects\DubstepKata\ToSquareOrNotToSquare\bin\Debug\ToSquareOrNotToSquare.exe
+D:\Other VS projects\DubstepKata\ToSquareOrNotToSquare\bin\Debug\ToSquareOrNotToSquare.pdb
+D:\Other VS projects\DubstepKata\ToSquareOrNotToSquare\obj\Debug\ToSquareOrNotToSquare.csprojResolveAssemblyReference.cache
+D:\Other VS projects\DubstepKata\ToSquareOrNotToSquare\obj\Debug\ToSquareOrNotToSquare.exe
+D:\Other VS projects\DubstepKata\ToSquareOrNotToSquare\obj\Debug\ToSquareOrNotToSquare.pdb

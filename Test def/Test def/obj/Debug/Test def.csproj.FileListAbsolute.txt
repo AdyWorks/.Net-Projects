@@ -1,0 +1,6 @@
+D:\Other VS projects\Test def\Test def\bin\Debug\Test def.exe.config
+D:\Other VS projects\Test def\Test def\obj\Debug\Test def.csprojResolveAssemblyReference.cache
+D:\Other VS projects\Test def\Test def\bin\Debug\Test def.exe
+D:\Other VS projects\Test def\Test def\bin\Debug\Test def.pdb
+D:\Other VS projects\Test def\Test def\obj\Debug\Test def.exe
+D:\Other VS projects\Test def\Test def\obj\Debug\Test def.pdb

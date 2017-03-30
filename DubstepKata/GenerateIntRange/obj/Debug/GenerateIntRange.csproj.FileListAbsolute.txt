@@ -1,0 +1,6 @@
+D:\Other VS projects\DubstepKata\GenerateIntRange\bin\Debug\GenerateIntRange.exe.config
+D:\Other VS projects\DubstepKata\GenerateIntRange\obj\Debug\GenerateIntRange.csprojResolveAssemblyReference.cache
+D:\Other VS projects\DubstepKata\GenerateIntRange\bin\Debug\GenerateIntRange.exe
+D:\Other VS projects\DubstepKata\GenerateIntRange\bin\Debug\GenerateIntRange.pdb
+D:\Other VS projects\DubstepKata\GenerateIntRange\obj\Debug\GenerateIntRange.exe
+D:\Other VS projects\DubstepKata\GenerateIntRange\obj\Debug\GenerateIntRange.pdb

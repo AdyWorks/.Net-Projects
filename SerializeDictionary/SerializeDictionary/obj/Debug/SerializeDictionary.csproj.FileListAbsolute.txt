@@ -1,0 +1,6 @@
+D:\Other VS projects\SerializeDictionary\SerializeDictionary\bin\Debug\SerializeDictionary.exe.config
+D:\Other VS projects\SerializeDictionary\SerializeDictionary\bin\Debug\SerializeDictionary.exe
+D:\Other VS projects\SerializeDictionary\SerializeDictionary\bin\Debug\SerializeDictionary.pdb
+D:\Other VS projects\SerializeDictionary\SerializeDictionary\obj\Debug\SerializeDictionary.csprojResolveAssemblyReference.cache
+D:\Other VS projects\SerializeDictionary\SerializeDictionary\obj\Debug\SerializeDictionary.exe
+D:\Other VS projects\SerializeDictionary\SerializeDictionary\obj\Debug\SerializeDictionary.pdb

@@ -1,0 +1,470 @@
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\X720-FG - EU Us\fb9dafb3-7841-409e-848a-a5870b6994bc" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\X720-FG - EU Us\fb9dafb3-7841-409e-848a-a5870b6994bc" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\PS4-FG - WW Us ((Frankenbuild Loose files))\b4f3a25b-b27a-4414-9e6a-3416daa72ecd" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\PS4-FG - WW Us ((Frankenbuild Loose files))\b4f3a25b-b27a-4414-9e6a-3416daa72ecd" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\X720-FG - WW Us ((Frankenbuild Loose files))\a11bdeba-d708-4541-85a6-03f414ea370c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\X720-FG - WW Us ((Frankenbuild Loose files))\a11bdeba-d708-4541-85a6-03f414ea370c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\PC-Server - WW\05a68f1f-d938-4f42-a5a7-7debb0b5b712" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\PC-Server - WW\05a68f1f-d938-4f42-a5a7-7debb0b5b712" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\X720-FG - WW UsFrDeItPlBpRuEs (Retail Digital Builds)\9007e6aa-f1d9-4340-99aa-e680de5d1546" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\X720-FG - WW UsFrDeItPlBpRuEs (Retail Digital Builds)\9007e6aa-f1d9-4340-99aa-e680de5d1546" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\X720-Patch - WW En\72a99cdd-cecf-4650-8169-531634b0a027" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\X720-Patch - WW En\72a99cdd-cecf-4650-8169-531634b0a027" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Rivals\PC-FG - WW (Misc)\35b7bb36-8703-473b-a9e4-181997da816c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Rivals\PC-FG - WW (Misc)\35b7bb36-8703-473b-a9e4-181997da816c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\X720-DLC - WW En\5f830aa8-908b-4aeb-8854-f41a3a2fea96" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\X720-DLC - WW En\5f830aa8-908b-4aeb-8854-f41a3a2fea96" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\a01d0550-4c83-4412-ac77-1fb66c077f74" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\a01d0550-4c83-4412-ac77-1fb66c077f74" 
+
+2017/01/24 04:25:11 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\a01d0550-4c83-4412-ac77-1fb66c077f74\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Pamplona\Android-Demo - EU (Ryu test upload)\01650267-c481-4b33-99cf-682e89afb849" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\Android-Demo - EU (Ryu test upload)\01650267-c481-4b33-99cf-682e89afb849" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4 Year 2 \PS3-Patch - AP Jp (JPN DD)\7a37ee0d-cd4b-41ce-8340-1032fdaab7cf" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4 Year 2 \PS3-Patch - AP Jp (JPN DD)\7a37ee0d-cd4b-41ce-8340-1032fdaab7cf" 
+
+2017/01/24 04:25:27 ERROR 3 (0x00000003) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4 Year 2 \PS3-Patch - AP Jp (JPN DD)\7a37ee0d-cd4b-41ce-8340-1032fdaab7cf\
+The system cannot find the path specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\bbceb364-eda9-4707-ae87-06822d1f92ff" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\bbceb364-eda9-4707-ae87-06822d1f92ff" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\85c0d69a-c883-4a45-aaaa-2aaea110b51f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\85c0d69a-c883-4a45-aaaa-2aaea110b51f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\7510a181-8e5b-4696-908e-4023d1bb524f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\7510a181-8e5b-4696-908e-4023d1bb524f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\3f0fcf14-deec-4ddb-ac30-15b6fcfef615" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\3f0fcf14-deec-4ddb-ac30-15b6fcfef615" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP0\PC-Server - WW (Windows)\199d98a7-a548-4782-ab02-7936ce0bee0d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PC-Server - WW (Windows)\199d98a7-a548-4782-ab02-7936ce0bee0d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PS4-Patch - AP (Final)\cdf44ed0-0d5d-4b0d-89ac-abf8c015a8b3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PS4-Patch - AP (Final)\cdf44ed0-0d5d-4b0d-89ac-abf8c015a8b3" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Server - WW (GAME-WW)\244594e6-2b1f-4217-90ab-e8650521c802" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Server - WW (GAME-WW)\244594e6-2b1f-4217-90ab-e8650521c802" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\60d0305a-68dd-4a11-9755-5b4376227848" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\60d0305a-68dd-4a11-9755-5b4376227848" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\b4a7bd98-6f3c-410a-bb63-f466d06c795b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\b4a7bd98-6f3c-410a-bb63-f466d06c795b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\8293e332-2b45-4aa7-92ef-b5ea42e6334b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\8293e332-2b45-4aa7-92ef-b5ea42e6334b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Server - WW (GAME-WW)\e6babc57-7178-4eef-8869-67772bea34b9" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Server - WW (GAME-WW)\e6babc57-7178-4eef-8869-67772bea34b9" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\f07a3e94-53c0-470a-8bd1-647e90f4ca2f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\f07a3e94-53c0-470a-8bd1-647e90f4ca2f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\89fc904d-0ccc-4fa4-9057-5eecb8936e49" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\89fc904d-0ccc-4fa4-9057-5eecb8936e49" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\236187a7-dba4-4531-9156-ef0fb69635ee" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\236187a7-dba4-4531-9156-ef0fb69635ee" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\decb8ba4-df81-4ad7-b1c9-daa8c359e334" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\decb8ba4-df81-4ad7-b1c9-daa8c359e334" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\76e8939b-91ca-4373-b525-ae50d84ca60c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\76e8939b-91ca-4373-b525-ae50d84ca60c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\b44ce85d-c17c-4bd9-a242-ea351336f9c3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\b44ce85d-c17c-4bd9-a242-ea351336f9c3" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW\333d38d9-c0ef-4259-84c7-004ebb9bc6d6" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\333d38d9-c0ef-4259-84c7-004ebb9bc6d6" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\5fea66d4-138c-497f-9bb0-6ca0d9439399" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\5fea66d4-138c-497f-9bb0-6ca0d9439399" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\5ea001d5-448f-4241-9957-2a543505af13" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\5ea001d5-448f-4241-9957-2a543505af13" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\5356c81a-166c-4244-a235-2f71008266b3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\5356c81a-166c-4244-a235-2f71008266b3" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\c0f6312d-9f72-4bd6-8759-f064c8fe0bc6" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\c0f6312d-9f72-4bd6-8759-f064c8fe0bc6" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\4afb7826-6fca-4e6e-be43-62ad73ff1e25" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\4afb7826-6fca-4e6e-be43-62ad73ff1e25" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\a675d865-1541-4b4f-a1a1-62cfd57f1af4" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\a675d865-1541-4b4f-a1a1-62cfd57f1af4" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\61a56506-bd54-43bb-b4be-ba674c2b2665" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\61a56506-bd54-43bb-b4be-ba674c2b2665" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\0e82bf66-022c-4d6b-9dc2-9975cbb5172c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\0e82bf66-022c-4d6b-9dc2-9975cbb5172c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - AP UsJp (Disc Final)\4c579057-587c-41cb-ac4e-fc4ef4b98317" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - AP UsJp (Disc Final)\4c579057-587c-41cb-ac4e-fc4ef4b98317" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\7863da75-0626-42ce-9546-0fcbb7d8d813" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\7863da75-0626-42ce-9546-0fcbb7d8d813" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Server - WW (GAME-WW)\119a4ec8-c2e3-46db-8747-8f0cb35b942e" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Server - WW (GAME-WW)\119a4ec8-c2e3-46db-8747-8f0cb35b942e" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW\98a66786-2ea3-4fde-9cd2-2314e3fee8fe" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\98a66786-2ea3-4fde-9cd2-2314e3fee8fe" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\ce52f419-642e-45d4-841d-69ae0a45fd5d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\ce52f419-642e-45d4-841d-69ae0a45fd5d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\799b24cb-48ea-4f82-9276-59b52da7e1fe" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\799b24cb-48ea-4f82-9276-59b52da7e1fe" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\e036439c-df7b-4453-aa5d-13158c796537" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\e036439c-df7b-4453-aa5d-13158c796537" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\4a52bee5-20b2-4a7f-9674-2b2a52d67e9d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\4a52bee5-20b2-4a7f-9674-2b2a52d67e9d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\677df8d0-31a9-473e-a43a-b58226e10470" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\677df8d0-31a9-473e-a43a-b58226e10470" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\5091e85d-9a00-4241-8010-df0e5ee6132a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\5091e85d-9a00-4241-8010-df0e5ee6132a" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\SSC\PC-FG - EU Us (Digital)\722f434b-9333-4ab4-b0cf-4760efc561de" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\SSC\PC-FG - EU Us (Digital)\722f434b-9333-4ab4-b0cf-4760efc561de" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\6cb0c4f7-b931-4b56-9dbb-f2f54ac1eb57" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\6cb0c4f7-b931-4b56-9dbb-f2f54ac1eb57" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\ee599418-8f4a-4033-8209-3e56bbd33459" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\ee599418-8f4a-4033-8209-3e56bbd33459" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\32455d44-cef6-4c95-963f-b24026ae8200" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\32455d44-cef6-4c95-963f-b24026ae8200" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark\PC-Server - WW (Linux)\c7c13555-7f53-45df-a055-eee196fd3ebb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\c7c13555-7f53-45df-a055-eee196fd3ebb" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP0\PS4-FG - EU (Loose files)\6cc360b8-665a-4914-8149-af038a51c989" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PS4-FG - EU (Loose files)\6cc360b8-665a-4914-8149-af038a51c989" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\98d84662-428c-4f5c-a6c9-741568c57e11" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\98d84662-428c-4f5c-a6c9-741568c57e11" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\f0d7afe2-dd3e-44c6-80bc-ce43a000ecfc" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\f0d7afe2-dd3e-44c6-80bc-ce43a000ecfc" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\d246c79d-60af-4f22-8f90-b08f3ed4c99f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\d246c79d-60af-4f22-8f90-b08f3ed4c99f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\9ecdcbbc-ae7e-41c6-a600-c798d4a11f64" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\9ecdcbbc-ae7e-41c6-a600-c798d4a11f64" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\5aab2066-015c-4240-8f28-77b328fc25eb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\5aab2066-015c-4240-8f28-77b328fc25eb" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PS4-Patch - NA (Final)\b3c3a862-4ec0-44c7-be43-fafdf6a192a6" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PS4-Patch - NA (Final)\b3c3a862-4ec0-44c7-be43-fafdf6a192a6" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\e27e64f4-9ea5-4d7a-b5c4-15fa403bab56" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\e27e64f4-9ea5-4d7a-b5c4-15fa403bab56" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Server - WW (GAME-WW)\1aa2ce04-139f-43d5-9a5b-1cb450736fc7" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Server - WW (GAME-WW)\1aa2ce04-139f-43d5-9a5b-1cb450736fc7" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\754a17f5-c231-4d53-b4a1-ba5eee58e49f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\754a17f5-c231-4d53-b4a1-ba5eee58e49f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Server - WW (GAME-WW)\6dc08a8d-52f0-4dd6-9643-9f92f017c37c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Server - WW (GAME-WW)\6dc08a8d-52f0-4dd6-9643-9f92f017c37c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\69632542-3091-4aa2-bef2-b3df7e602476" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\69632542-3091-4aa2-bef2-b3df7e602476" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\a97b3ad0-3169-46a5-9c46-f9d19a07c5ee" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\a97b3ad0-3169-46a5-9c46-f9d19a07c5ee" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Linux)\25fc52a7-ce3c-4b89-b4a7-86955e407c2b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Linux)\25fc52a7-ce3c-4b89-b4a7-86955e407c2b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP0\PC-FG - WW (Loose files)\b436549f-2510-4c5d-86f3-be2ea720382e" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PC-FG - WW (Loose files)\b436549f-2510-4c5d-86f3-be2ea720382e" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Server - WW (GAME-WW)\441b4eb6-298a-4ac3-afbf-44af1585fd05" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Server - WW (GAME-WW)\441b4eb6-298a-4ac3-afbf-44af1585fd05" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\f133e1fa-393f-41a0-856d-167c331cf711" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\f133e1fa-393f-41a0-856d-167c331cf711" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\4bba15d8-d162-46e5-8d38-02f55b4a2b93" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\4bba15d8-d162-46e5-8d38-02f55b4a2b93" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW\34f2357f-99b8-434d-8b87-20d906aebacb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\34f2357f-99b8-434d-8b87-20d906aebacb" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW (GAME-WW)\a8e291ff-9ac5-45b4-934d-6322698ad53a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\a8e291ff-9ac5-45b4-934d-6322698ad53a" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\ef9a97c4-1b7e-48d8-b84e-3b6cd458b03b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\ef9a97c4-1b7e-48d8-b84e-3b6cd458b03b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\ae72220b-a18b-4f76-a55b-39e941d111f7" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\ae72220b-a18b-4f76-a55b-39e941d111f7" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\1dbef906-2af7-4c8f-a3e7-4cf8d4acc97a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\1dbef906-2af7-4c8f-a3e7-4cf8d4acc97a" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\X720-Patch - WW (Final)\f561c6e4-cdc9-4f9c-b9cb-a9f25dd55534" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\X720-Patch - WW (Final)\f561c6e4-cdc9-4f9c-b9cb-a9f25dd55534" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Windows)\cd9a296b-f625-453d-b367-2d54d930415f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Windows)\cd9a296b-f625-453d-b367-2d54d930415f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW (GAME-WW)\1acce5dd-75d5-4fd2-9976-e329379e3566" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\1acce5dd-75d5-4fd2-9976-e329379e3566" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW\56d62c71-fed9-407f-b0e6-2f128cfeb8ba" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\56d62c71-fed9-407f-b0e6-2f128cfeb8ba" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\d0b73c62-eb74-42b9-80eb-3352feb87ff1" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\d0b73c62-eb74-42b9-80eb-3352feb87ff1" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\03c0d5a8-daf1-46a6-a2a1-00c661cc71c2" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\03c0d5a8-daf1-46a6-a2a1-00c661cc71c2" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Windows)\9d74989f-e313-42cd-ab30-64880ef876a5" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Windows)\9d74989f-e313-42cd-ab30-64880ef876a5" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP2\X720-Patch - WW (Final)\a3f47e8a-3473-4624-822f-ac42fb502821" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP2\X720-Patch - WW (Final)\a3f47e8a-3473-4624-822f-ac42fb502821" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PC-Server - WW (Windows)\548cf6f2-d6c9-4933-93c0-66c762ed0d88" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Windows)\548cf6f2-d6c9-4933-93c0-66c762ed0d88" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\b6975ab6-d63c-4f81-a144-7f9ae5c517b0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\b6975ab6-d63c-4f81-a144-7f9ae5c517b0" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\5040c65c-fbdb-40e4-a88a-46a59b3097d6" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\5040c65c-fbdb-40e4-a88a-46a59b3097d6" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\66380132-fb39-4b3c-b95b-e30e2e43d5dc" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\66380132-fb39-4b3c-b95b-e30e2e43d5dc" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4 CTE\X720-Patch - WW Us\e2325a36-169c-4c5b-b753-214181080725" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4 CTE\X720-Patch - WW Us\e2325a36-169c-4c5b-b753-214181080725" 
+
+2017/01/24 14:24:07 ERROR 59 (0x0000003B) Copying File \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4 CTE\X720-Patch - WW Us\e2325a36-169c-4c5b-b753-214181080725\f1\source\BFCTE_1.0.0.3_x64__8s70symrha4j2
+An unexpected network error occurred.
+Waiting 90 seconds... Retrying...
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\8e7aa38e-4913-4515-a8d2-ffff7c647a21" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\8e7aa38e-4913-4515-a8d2-ffff7c647a21" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Demo - WW (Con. Beta Digital Final)\515ae012-de8e-468f-b877-b58633f93d01" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Demo - WW (Con. Beta Digital Final)\515ae012-de8e-468f-b877-b58633f93d01" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\d0a91f1c-dfd7-42bf-aae1-b751f738b81f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\d0a91f1c-dfd7-42bf-aae1-b751f738b81f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\45d17c6a-b0cd-4a9b-b62d-741dcb83f421" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\45d17c6a-b0cd-4a9b-b62d-741dcb83f421" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\ef5cc97a-d104-419b-bea0-02492136a6cb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\ef5cc97a-d104-419b-bea0-02492136a6cb" 
+
+2017/01/24 15:01:11 ERROR 54 (0x00000036) Copying File \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\ef5cc97a-d104-419b-bea0-02492136a6cb\f1\source\engine.buildinfo_win64_final_server.pdb
+The network is busy.
+Waiting 90 seconds... Retrying...
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\X720-Demo - WW (Con. Beta Digital Final)\7c3bbfce-0a97-4ed9-8037-999b23d9301a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\X720-Demo - WW (Con. Beta Digital Final)\7c3bbfce-0a97-4ed9-8037-999b23d9301a" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\3de2b832-5a65-420b-aded-4e224b074458" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\3de2b832-5a65-420b-aded-4e224b074458" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (EU)\b81d684b-9a6a-4d2d-930f-541dfd886b76" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - EU (EU)\b81d684b-9a6a-4d2d-930f-541dfd886b76" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\d31615fc-2f57-4d6a-81e0-5115310dc494" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\d31615fc-2f57-4d6a-81e0-5115310dc494" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\X720-FG - WW Us ((Frankenbuild Loose files))\e7f992a5-e466-4c92-addd-96730797492e" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\X720-FG - WW Us ((Frankenbuild Loose files))\e7f992a5-e466-4c92-addd-96730797492e" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\PC-Server - WW NA\a216f760-289f-4dd8-b36d-fba07ded11f1" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\PC-Server - WW NA\a216f760-289f-4dd8-b36d-fba07ded11f1" 
+
+2017/01/24 16:25:01 ERROR 54 (0x00000036) Copying File \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\PC-Server - WW NA\a216f760-289f-4dd8-b36d-fba07ded11f1\LooseFiles\source\libSceGnmx-debug.dll
+The network is busy.
+Waiting 90 seconds... Retrying...
+2017/01/24 16:26:36 ERROR 54 (0x00000036) Copying File \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\PC-Server - WW NA\a216f760-289f-4dd8-b36d-fba07ded11f1\LooseFiles\source\libSceShaderBinary.dll
+The network is busy.
+Waiting 90 seconds... Retrying...
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\X720-FG - WW Us ((Frankenbuild Loose files))\c37a2077-8b90-4128-b9fe-c0b6b8d6c87a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\X720-FG - WW Us ((Frankenbuild Loose files))\c37a2077-8b90-4128-b9fe-c0b6b8d6c87a" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\PC-FG - WW X0 (Frankenbuild PC)\48798218-d4ab-46bb-80fc-5b1be2d832a6" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\PC-FG - WW X0 (Frankenbuild PC)\48798218-d4ab-46bb-80fc-5b1be2d832a6" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4\PS4-FG - EU (Retail ISO)\82948e61-76c5-4993-926d-d5add2b874eb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4\PS4-FG - EU (Retail ISO)\82948e61-76c5-4993-926d-d5add2b874eb" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\PS4-FG - WW En\a7a00507-e6cf-4678-959c-efdbb290d90a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\PS4-FG - WW En\a7a00507-e6cf-4678-959c-efdbb290d90a" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\PS4-Patch - NA Us\a8054796-9abd-4413-8c28-be7fcba3e616" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\PS4-Patch - NA Us\a8054796-9abd-4413-8c28-be7fcba3e616" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\X720-DLC - WW En\525671ae-b7ee-487f-a7be-4c61af2c3d94" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\X720-DLC - WW En\525671ae-b7ee-487f-a7be-4c61af2c3d94" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_ XP0\X720-DLC - WW\e348f21f-6d1b-4624-9199-e02ac7322607" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_ XP0\X720-DLC - WW\e348f21f-6d1b-4624-9199-e02ac7322607" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_ XP0\X720-DLC - WW\c8e43930-34cf-4bad-bc34-7e3fb8b47577" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_ XP0\X720-DLC - WW\c8e43930-34cf-4bad-bc34-7e3fb8b47577" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Pamplona\iOS-Demo - EU\50b7580a-38c7-4f9c-8d4e-218266a104a5" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\iOS-Demo - EU\50b7580a-38c7-4f9c-8d4e-218266a104a5" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\7e89d35b-8133-4d5b-9230-22e63575c7a9" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\7e89d35b-8133-4d5b-9230-22e63575c7a9" 
+
+2017/01/24 19:02:11 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\7e89d35b-8133-4d5b-9230-22e63575c7a9\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - NA\a84e196c-5fbb-40e4-8ffd-ec29f5d2e894" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - NA\a84e196c-5fbb-40e4-8ffd-ec29f5d2e894" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\6fd5181e-8d9e-4f65-acc7-62860b731dfd" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\6fd5181e-8d9e-4f65-acc7-62860b731dfd" 
+
+2017/01/24 19:15:07 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\6fd5181e-8d9e-4f65-acc7-62860b731dfd\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\dc49c368-e084-4eb7-b198-cecf5ec9b8e5" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\dc49c368-e084-4eb7-b198-cecf5ec9b8e5" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\17bc0e1d-50b4-4514-92f5-fd8ee14a993f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\17bc0e1d-50b4-4514-92f5-fd8ee14a993f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\c0003651-6e41-4deb-9e76-9277f5ded4ba" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\c0003651-6e41-4deb-9e76-9277f5ded4ba" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\9e951f02-3d69-4ac7-8a47-51e46933a295" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\9e951f02-3d69-4ac7-8a47-51e46933a295" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\5fcdb651-2629-4a04-a20c-e13aa67c94b8" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\5fcdb651-2629-4a04-a20c-e13aa67c94b8" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Patch - WW (Final)\a57ca079-6d07-4bea-8cc5-b4d3a350c0c7" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Patch - WW (Final)\a57ca079-6d07-4bea-8cc5-b4d3a350c0c7" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP2\X720-FG - WW (Loose files)\95553835-88d8-4b8e-96c9-e9f27203c81f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP2\X720-FG - WW (Loose files)\95553835-88d8-4b8e-96c9-e9f27203c81f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\69caf306-5303-4b73-ba4a-4024efc303c3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\69caf306-5303-4b73-ba4a-4024efc303c3" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\d2bd410b-ada6-4e4b-8549-6796ea49ab8a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\d2bd410b-ada6-4e4b-8549-6796ea49ab8a" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\72350bab-4ca5-45d6-ac85-838f381f5d6b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\72350bab-4ca5-45d6-ac85-838f381f5d6b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\741e87a1-d160-4c95-93ea-4833e58155cf" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\741e87a1-d160-4c95-93ea-4833e58155cf" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP2\X720-FG - WW (Loose files)\3064ead9-fa35-4c1c-9e39-e3ee03cd408f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP2\X720-FG - WW (Loose files)\3064ead9-fa35-4c1c-9e39-e3ee03cd408f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\cb69b654-0219-4c9a-81c7-31c27dff9895" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\cb69b654-0219-4c9a-81c7-31c27dff9895" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - AP UsJp (Disc Final)\deffbc61-9fb0-4fec-9712-15bb4029ecc7" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - AP UsJp (Disc Final)\deffbc61-9fb0-4fec-9712-15bb4029ecc7" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP2\X720-Patch - WW (Final)\9fe4de77-2c58-419a-92d1-193465ec2187" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP2\X720-Patch - WW (Final)\9fe4de77-2c58-419a-92d1-193465ec2187" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\116222b8-8edb-4eba-af3e-de7b0b17caa0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\116222b8-8edb-4eba-af3e-de7b0b17caa0" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\SSC\PC-FG - EU Us (Digital)\5ad12ed2-4b23-4fcc-b219-0889d0bc6d74" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\SSC\PC-FG - EU Us (Digital)\5ad12ed2-4b23-4fcc-b219-0889d0bc6d74" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\f3210a2f-9576-494f-9f46-3c0cc65612c8" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\f3210a2f-9576-494f-9f46-3c0cc65612c8" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\8615e238-51c3-4b36-971f-d8130f2a1eee" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\8615e238-51c3-4b36-971f-d8130f2a1eee" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\41daf30a-62d9-4a1e-98ba-3e8c23e7de40" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\41daf30a-62d9-4a1e-98ba-3e8c23e7de40" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\0dc6467d-5c25-4be9-8171-6cc64ebb1c0b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\0dc6467d-5c25-4be9-8171-6cc64ebb1c0b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\9916a56f-60ac-401e-b07e-5412294ba7ea" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\9916a56f-60ac-401e-b07e-5412294ba7ea" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PS4-Demo - WW (Disc Debug)\33745f89-5313-4878-a8ce-4595d14b4a34" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PS4-Demo - WW (Disc Debug)\33745f89-5313-4878-a8ce-4595d14b4a34" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\b12c6319-6cba-4d1c-9827-ad885f45c4b7" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\b12c6319-6cba-4d1c-9827-ad885f45c4b7" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\403535dc-1080-4206-9543-625feac71c5b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\403535dc-1080-4206-9543-625feac71c5b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\25b564dd-60a4-480b-a9ca-cff2174a14d4" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\25b564dd-60a4-480b-a9ca-cff2174a14d4" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\81763c6f-160f-4cd2-8e1c-f421dec0d35d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\81763c6f-160f-4cd2-8e1c-f421dec0d35d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP0\PS4-Patch - NA (Final)\8b480910-a117-4940-b274-20f1be920415" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PS4-Patch - NA (Final)\8b480910-a117-4940-b274-20f1be920415" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP0\PS4-FG - EU (Loose files)\332b4099-a047-42cf-8b58-440b240d3b59" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PS4-FG - EU (Loose files)\332b4099-a047-42cf-8b58-440b240d3b59" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\da8f4360-d07b-4d92-b10c-6d34f6cda8a2" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\da8f4360-d07b-4d92-b10c-6d34f6cda8a2" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\db264848-2b68-45ef-8d38-ad73ebfacbfb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\db264848-2b68-45ef-8d38-ad73ebfacbfb" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\075d6116-bfa1-4708-9fbd-0f02b17178f6" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\075d6116-bfa1-4708-9fbd-0f02b17178f6" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\e6ea77ef-fdad-4c4d-a6dd-56cf1d2eac2c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\e6ea77ef-fdad-4c4d-a6dd-56cf1d2eac2c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-FG - WW (GAME-WW)\bacdab25-993e-4fa1-9011-b439ac7afccf" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (GAME-WW)\bacdab25-993e-4fa1-9011-b439ac7afccf" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\7310e7af-21eb-49af-8bdb-f177fb556578" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\7310e7af-21eb-49af-8bdb-f177fb556578" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\fba85104-30f7-4e8e-9f63-a54a65860382" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\fba85104-30f7-4e8e-9f63-a54a65860382" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\e3b0798d-15b1-4ebb-88b5-ed67af6a3e30" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\e3b0798d-15b1-4ebb-88b5-ed67af6a3e30" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP2\X720-FG - WW (Loose files)\b190ded9-e99e-434c-9f0a-35429fc131b5" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP2\X720-FG - WW (Loose files)\b190ded9-e99e-434c-9f0a-35429fc131b5" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Battlefield 4 Sparta\PC-FG - WW (Frankenbuild Loose File)\70519db0-60b4-4d10-8ed7-341fd0137b5c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4 Sparta\PC-FG - WW (Frankenbuild Loose File)\70519db0-60b4-4d10-8ed7-341fd0137b5c" 
+

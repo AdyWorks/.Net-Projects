@@ -1,0 +1,6 @@
+D:\Other VS projects\JustEvents\JustEvents\bin\Debug\JustEvents.exe.config
+D:\Other VS projects\JustEvents\JustEvents\obj\Debug\JustEvents.csprojResolveAssemblyReference.cache
+D:\Other VS projects\JustEvents\JustEvents\bin\Debug\JustEvents.exe
+D:\Other VS projects\JustEvents\JustEvents\bin\Debug\JustEvents.pdb
+D:\Other VS projects\JustEvents\JustEvents\obj\Debug\JustEvents.exe
+D:\Other VS projects\JustEvents\JustEvents\obj\Debug\JustEvents.pdb

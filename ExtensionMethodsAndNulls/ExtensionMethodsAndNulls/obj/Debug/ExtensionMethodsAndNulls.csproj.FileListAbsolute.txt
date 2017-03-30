@@ -1,0 +1,6 @@
+D:\Other VS projects\ExtensionMethodsAndNulls\ExtensionMethodsAndNulls\bin\Debug\ExtensionMethodsAndNulls.pdb
+D:\Other VS projects\ExtensionMethodsAndNulls\ExtensionMethodsAndNulls\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Other VS projects\ExtensionMethodsAndNulls\ExtensionMethodsAndNulls\obj\Debug\ExtensionMethodsAndNulls.csprojResolveAssemblyReference.cache
+D:\Other VS projects\ExtensionMethodsAndNulls\ExtensionMethodsAndNulls\obj\Debug\ExtensionMethodsAndNulls.pdb
+D:\Other VS projects\ExtensionMethodsAndNulls\ExtensionMethodsAndNulls\bin\Debug\ExtensionMethodsAndNulls.exe
+D:\Other VS projects\ExtensionMethodsAndNulls\ExtensionMethodsAndNulls\obj\Debug\ExtensionMethodsAndNulls.exe

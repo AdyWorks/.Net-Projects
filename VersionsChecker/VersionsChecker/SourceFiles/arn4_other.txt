@@ -1,0 +1,590 @@
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\SSC\PC-FG - EU Us (Files)\acef850f-44bd-44a1-a76f-58b5842636d0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\SSC\PC-FG - EU Us (Files)\acef850f-44bd-44a1-a76f-58b5842636d0" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\f2fb5c8c-2bdb-486c-94c5-a790d449241d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\f2fb5c8c-2bdb-486c-94c5-a790d449241d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\2a769769-1a56-4bd1-a3db-ebcc4e56a4c4" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\2a769769-1a56-4bd1-a3db-ebcc4e56a4c4" 
+
+2017/01/27 05:31:45 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\2a769769-1a56-4bd1-a3db-ebcc4e56a4c4\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP0\X720-FG - WW (Loose files)\ec5a8a7d-0b43-4f6c-bec9-d4f3f3404508" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\X720-FG - WW (Loose files)\ec5a8a7d-0b43-4f6c-bec9-d4f3f3404508" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\a628d0b6-2e51-4323-b8c1-b07b780c389d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\a628d0b6-2e51-4323-b8c1-b07b780c389d" 
+
+2017/01/27 05:39:41 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\a628d0b6-2e51-4323-b8c1-b07b780c389d\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\7622ab29-854c-40c8-a122-7241acbc9035" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\7622ab29-854c-40c8-a122-7241acbc9035" 
+
+2017/01/27 05:39:41 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\7622ab29-854c-40c8-a122-7241acbc9035\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\bc578549-528f-493e-ac9d-607c5ed42160" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\bc578549-528f-493e-ac9d-607c5ed42160" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP0\PS4-Patch - EU (Final)\906d3efc-5fc5-4dd0-b43b-3364aeae4e49" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PS4-Patch - EU (Final)\906d3efc-5fc5-4dd0-b43b-3364aeae4e49" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\da68e48c-97d7-49c1-b089-bcc420d26c22" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\da68e48c-97d7-49c1-b089-bcc420d26c22" 
+
+2017/01/27 05:41:36 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\da68e48c-97d7-49c1-b089-bcc420d26c22\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\62781431-1137-48f9-b6df-289f49eaf015" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\62781431-1137-48f9-b6df-289f49eaf015" 
+
+2017/01/27 05:41:37 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\62781431-1137-48f9-b6df-289f49eaf015\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\a15f7c8d-0788-4218-8a15-9139565e86c0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\a15f7c8d-0788-4218-8a15-9139565e86c0" 
+
+2017/01/27 05:41:37 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\a15f7c8d-0788-4218-8a15-9139565e86c0\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP0\X720-FG - WW (Loose files)\35c49e1f-dac0-4174-bd63-9b0a9ff479fb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\X720-FG - WW (Loose files)\35c49e1f-dac0-4174-bd63-9b0a9ff479fb" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP0\PC-Server - WW (Windows)\845a81f0-b2df-4f12-9bb9-a51da6fe1d9b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PC-Server - WW (Windows)\845a81f0-b2df-4f12-9bb9-a51da6fe1d9b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP0\PC-Server - WW (Windows)\65b56b34-e1a5-48a4-a8e8-39d8f4e5de8f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PC-Server - WW (Windows)\65b56b34-e1a5-48a4-a8e8-39d8f4e5de8f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\fa77e19e-3fd6-4e7c-afa4-b9bfee14924f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\fa77e19e-3fd6-4e7c-afa4-b9bfee14924f" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\fa77e19e-3fd6-4e7c-afa4-b9bfee14924f\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\433a8527-ce4c-4b83-a45a-d8d0c8d8264d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\433a8527-ce4c-4b83-a45a-d8d0c8d8264d" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\433a8527-ce4c-4b83-a45a-d8d0c8d8264d\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\fca1c7de-8b04-49db-9a57-e3abaf3b75d3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\fca1c7de-8b04-49db-9a57-e3abaf3b75d3" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\fca1c7de-8b04-49db-9a57-e3abaf3b75d3\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\246a8d34-fbe9-48db-8bd7-9138313ed4e8" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\246a8d34-fbe9-48db-8bd7-9138313ed4e8" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\246a8d34-fbe9-48db-8bd7-9138313ed4e8\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\dd97abdd-31d6-4ac3-a34e-78fbc88c9625" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\dd97abdd-31d6-4ac3-a34e-78fbc88c9625" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\dd97abdd-31d6-4ac3-a34e-78fbc88c9625\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\7cf8f755-5f90-42a1-b0ce-4a6094e9b271" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\7cf8f755-5f90-42a1-b0ce-4a6094e9b271" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-JA)\7cf8f755-5f90-42a1-b0ce-4a6094e9b271\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\a31aedbe-1db6-4952-a07f-612d2609e0c0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\a31aedbe-1db6-4952-a07f-612d2609e0c0" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\a31aedbe-1db6-4952-a07f-612d2609e0c0\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\6c84fab9-8317-4f6d-9e62-25bdde208459" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\6c84fab9-8317-4f6d-9e62-25bdde208459" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\6c84fab9-8317-4f6d-9e62-25bdde208459\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\7ce99598-feb6-4870-bc8c-32bf1200a6f5" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\7ce99598-feb6-4870-bc8c-32bf1200a6f5" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\7ce99598-feb6-4870-bc8c-32bf1200a6f5\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\84ccc2fc-9a3d-43e4-86b2-3f7c0f548b29" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\84ccc2fc-9a3d-43e4-86b2-3f7c0f548b29" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\84ccc2fc-9a3d-43e4-86b2-3f7c0f548b29\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\81f39206-50d3-488d-b232-c96a3aaf3046" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\81f39206-50d3-488d-b232-c96a3aaf3046" 
+
+2017/01/27 06:18:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\81f39206-50d3-488d-b232-c96a3aaf3046\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PS4-Patch - NA (Final)\588afa0c-a296-4441-8005-ee04f5a85f55" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PS4-Patch - NA (Final)\588afa0c-a296-4441-8005-ee04f5a85f55" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Patch - WW (Final)\4848d854-56c8-4bfe-baad-61cb7244272d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Patch - WW (Final)\4848d854-56c8-4bfe-baad-61cb7244272d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Linux)\b2857ce2-bbc9-4f3d-9e84-064c1591c1d8" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Linux)\b2857ce2-bbc9-4f3d-9e84-064c1591c1d8" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Patch - WW (Final)\fb7146fa-b628-4b31-88d6-5188dce8ce81" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Patch - WW (Final)\fb7146fa-b628-4b31-88d6-5188dce8ce81" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PS4-Patch - NA (Final)\3d561acb-a02c-40f8-9800-5ac7782d6c3d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PS4-Patch - NA (Final)\3d561acb-a02c-40f8-9800-5ac7782d6c3d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - AP UsJp (Disc Final)\263f5957-5600-42ae-8e19-ebe641ecab3e" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - AP UsJp (Disc Final)\263f5957-5600-42ae-8e19-ebe641ecab3e" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Pamplona\PS4-FG - AP UsJp (Disc Final)\3fa77425-7852-4047-b008-74a96d112015" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - AP UsJp (Disc Final)\3fa77425-7852-4047-b008-74a96d112015" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP2\X720-Patch - WW (Final)\ec47a850-3cb9-4113-a283-56de83fc32f1" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP2\X720-Patch - WW (Final)\ec47a850-3cb9-4113-a283-56de83fc32f1" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Pamplona\PS4-FG - AP UsJp (Disc Final)\9022055e-17a5-44ab-9121-2cd9b26fed13" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - AP UsJp (Disc Final)\9022055e-17a5-44ab-9121-2cd9b26fed13" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP2\PS4-Patch - AP (Final)\7c44780a-6f5f-4956-8cda-7953d6b62aff" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP2\PS4-Patch - AP (Final)\7c44780a-6f5f-4956-8cda-7953d6b62aff" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\aca0c15f-43d0-4070-9f8a-27a28a744a56" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\aca0c15f-43d0-4070-9f8a-27a28a744a56" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\aca0c15f-43d0-4070-9f8a-27a28a744a56\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\d1c38cab-4279-4ecf-8586-3399a51d3dbc" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\d1c38cab-4279-4ecf-8586-3399a51d3dbc" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\d1c38cab-4279-4ecf-8586-3399a51d3dbc\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\0b8e18cf-1ff2-428a-8323-4dab0d15515f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\0b8e18cf-1ff2-428a-8323-4dab0d15515f" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\0b8e18cf-1ff2-428a-8323-4dab0d15515f\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\a5f8e833-20b5-44ad-972e-f5b4da5386a4" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\a5f8e833-20b5-44ad-972e-f5b4da5386a4" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\a5f8e833-20b5-44ad-972e-f5b4da5386a4\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\b77eca3e-fb7b-4be3-8211-6d72c10535d2" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\b77eca3e-fb7b-4be3-8211-6d72c10535d2" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\b77eca3e-fb7b-4be3-8211-6d72c10535d2\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (EU)\69aa6984-0b62-4cc4-acc4-0281ec0f4a63" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - EU (EU)\69aa6984-0b62-4cc4-acc4-0281ec0f4a63" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (EU)\69aa6984-0b62-4cc4-acc4-0281ec0f4a63\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\3b57361c-4f7a-4122-bb53-c1224a60c15d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\3b57361c-4f7a-4122-bb53-c1224a60c15d" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\3b57361c-4f7a-4122-bb53-c1224a60c15d\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (RoA)\7d37bf6c-83ad-45f8-a21c-745057988e12" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - AP (RoA)\7d37bf6c-83ad-45f8-a21c-745057988e12" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (RoA)\7d37bf6c-83ad-45f8-a21c-745057988e12\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\4682a844-4a2b-437f-bb9e-38bce634b243" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\4682a844-4a2b-437f-bb9e-38bce634b243" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Server - WW (GAME-WW)\4682a844-4a2b-437f-bb9e-38bce634b243\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (RoA)\3a39e8e9-46cf-4ac6-8173-c50c74a9dfd6" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - AP (RoA)\3a39e8e9-46cf-4ac6-8173-c50c74a9dfd6" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (RoA)\3a39e8e9-46cf-4ac6-8173-c50c74a9dfd6\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\28765ef4-7279-48ea-a515-4122a3bfc60b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\28765ef4-7279-48ea-a515-4122a3bfc60b" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\28765ef4-7279-48ea-a515-4122a3bfc60b\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\e7fa60c5-4dec-4da2-84d3-a6edbde68934" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\e7fa60c5-4dec-4da2-84d3-a6edbde68934" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\e7fa60c5-4dec-4da2-84d3-a6edbde68934\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (JA)\a7060192-f06b-43a4-813f-d8be7ffe00b9" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - AP (JA)\a7060192-f06b-43a4-813f-d8be7ffe00b9" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (JA)\a7060192-f06b-43a4-813f-d8be7ffe00b9\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (RoA)\e2dd7c5b-f430-4995-8c5a-2abb63d63583" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - AP (RoA)\e2dd7c5b-f430-4995-8c5a-2abb63d63583" 
+
+2017/01/27 09:45:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (RoA)\e2dd7c5b-f430-4995-8c5a-2abb63d63583\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\a9059505-4e04-4f72-8dff-ac3e636334c0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\a9059505-4e04-4f72-8dff-ac3e636334c0" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PS4-Patch - EU (Final)\40bac6ab-1df8-4cf4-86d4-23f939e5264f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PS4-Patch - EU (Final)\40bac6ab-1df8-4cf4-86d4-23f939e5264f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PC-Server - WW (Linux)\ebfec733-e7da-4826-a261-e804cdb201f8" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Linux)\ebfec733-e7da-4826-a261-e804cdb201f8" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PS4-Patch - AP (Final)\229b9b28-0979-4af1-b58f-36685b40bd41" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PS4-Patch - AP (Final)\229b9b28-0979-4af1-b58f-36685b40bd41" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PC-Server - WW (Windows)\15d2152b-ae43-4a2c-807a-6cf029a68531" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Windows)\15d2152b-ae43-4a2c-807a-6cf029a68531" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\c659d0a8-ae63-4db4-8bb3-c25e7c56702a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\c659d0a8-ae63-4db4-8bb3-c25e7c56702a" 
+
+2017/01/27 10:12:52 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW (GAME-WW)\c659d0a8-ae63-4db4-8bb3-c25e7c56702a\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\0c3f6e1a-21d5-4362-b290-c9cbef8f110c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\0c3f6e1a-21d5-4362-b290-c9cbef8f110c" 
+
+2017/01/27 10:12:52 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\0c3f6e1a-21d5-4362-b290-c9cbef8f110c\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\d84305e5-337f-4c1f-b08a-3c6a25d767f4" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\d84305e5-337f-4c1f-b08a-3c6a25d767f4" 
+
+2017/01/27 10:12:52 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\d84305e5-337f-4c1f-b08a-3c6a25d767f4\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\330f659c-4241-4be9-a17c-8f7fb598edce" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\330f659c-4241-4be9-a17c-8f7fb598edce" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\e8b2775b-3762-4ed2-bac4-b498f0cc1889" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\e8b2775b-3762-4ed2-bac4-b498f0cc1889" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PS4-Patch - AP (Final)\82a4bc81-8b20-4d48-96e5-78e1f71b7623" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PS4-Patch - AP (Final)\82a4bc81-8b20-4d48-96e5-78e1f71b7623" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Patch - WW (Final)\d24a1be2-5ba3-43d7-a840-c964a39a5a36" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Patch - WW (Final)\d24a1be2-5ba3-43d7-a840-c964a39a5a36" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Windows)\54a5d62a-fe32-4ed3-a802-c66fa8e1ddca" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Windows)\54a5d62a-fe32-4ed3-a802-c66fa8e1ddca" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Linux)\7352d335-9e1f-451b-9032-9d5baf7e7db0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Linux)\7352d335-9e1f-451b-9032-9d5baf7e7db0" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW\02e9b75a-c455-4da9-bd82-986da4d4b4e1" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\02e9b75a-c455-4da9-bd82-986da4d4b4e1" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\84c6336e-a91e-4322-8d38-00258da5ec9b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\84c6336e-a91e-4322-8d38-00258da5ec9b" 
+
+2017/01/27 11:58:42 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\84c6336e-a91e-4322-8d38-00258da5ec9b\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\PS4-FG - WW En\80b165c0-0193-4bfb-a10a-749592eb63a3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\PS4-FG - WW En\80b165c0-0193-4bfb-a10a-749592eb63a3" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\X720-FG - WW En ((Frankenbuild Loose files))\d71a21ae-2934-4d70-9721-e951c19a1a4c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\X720-FG - WW En ((Frankenbuild Loose files))\d71a21ae-2934-4d70-9721-e951c19a1a4c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP1\X720-Patch - WW En\02d43a43-0eee-4d9b-8217-41619eb3bdf1" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP1\X720-Patch - WW En\02d43a43-0eee-4d9b-8217-41619eb3bdf1" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_ XP0\X360-DLC - WW\952cdb68-3098-4093-88a2-8232c1afb15b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_ XP0\X360-DLC - WW\952cdb68-3098-4093-88a2-8232c1afb15b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_ XP0\X360-DLC - WW\fb39731c-bb04-4886-993a-571b37553560" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_ XP0\X360-DLC - WW\fb39731c-bb04-4886-993a-571b37553560" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP2\PC-FG - WW (Frankenbuild Loose File)\1601e75c-bfc6-4bbd-931a-48e43e29a914" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP2\PC-FG - WW (Frankenbuild Loose File)\1601e75c-bfc6-4bbd-931a-48e43e29a914" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4_XP2\PS4-Server - WW (Servers)\a3403732-e509-4922-b382-971abdf7895d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4_XP2\PS4-Server - WW (Servers)\a3403732-e509-4922-b382-971abdf7895d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - NA\ae50b845-b158-4498-a34f-804cb042d363" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - NA\ae50b845-b158-4498-a34f-804cb042d363" 
+
+2017/01/27 15:44:46 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - NA\ae50b845-b158-4498-a34f-804cb042d363\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 3 XP5 - End Game\PC-Patch - NA TcCsEnUsFrDeItJpKoPlEsMx (MP Update)\656cd5cc-3e78-4cf4-9e84-3f8d228feb30" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 3 XP5 - End Game\PC-Patch - NA TcCsEnUsFrDeItJpKoPlEsMx (MP Update)\656cd5cc-3e78-4cf4-9e84-3f8d228feb30" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4 Year 2 \X720-Server - WW\fdc200c2-bdcf-4e89-991f-187716a2802a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4 Year 2 \X720-Server - WW\fdc200c2-bdcf-4e89-991f-187716a2802a" 
+
+2017/01/27 15:57:37 ERROR 3 (0x00000003) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 4 Year 2 \X720-Server - WW\fdc200c2-bdcf-4e89-991f-187716a2802a\
+The system cannot find the path specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\38b76672-9dd0-4b09-8fca-254ebd920468" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\38b76672-9dd0-4b09-8fca-254ebd920468" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\SSC\PC-FG - EU Us (Digital)\591ba885-fbc1-4871-8d7d-cb9e1cec2c87" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\SSC\PC-FG - EU Us (Digital)\591ba885-fbc1-4871-8d7d-cb9e1cec2c87" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PS4-FG - AP (Digital Final)\4b99a7d6-ddf2-42ba-b77a-fe3e65e39337" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PS4-FG - AP (Digital Final)\4b99a7d6-ddf2-42ba-b77a-fe3e65e39337" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\02cd318d-df80-4935-a350-d88b6c102dec" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\02cd318d-df80-4935-a350-d88b6c102dec" 
+
+2017/01/27 16:22:40 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\02cd318d-df80-4935-a350-d88b6c102dec\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\13cf4788-3e1f-4eae-85fe-32129426d1ff" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\13cf4788-3e1f-4eae-85fe-32129426d1ff" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\62dcb1ef-50df-4b03-ba4a-26460e9ae3ae" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\62dcb1ef-50df-4b03-ba4a-26460e9ae3ae" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\667347ef-85e0-4b21-8f6d-209d3f4fe2fb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\667347ef-85e0-4b21-8f6d-209d3f4fe2fb" 
+
+2017/01/27 16:25:12 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\667347ef-85e0-4b21-8f6d-209d3f4fe2fb\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Patch - WW (Con. Beta Final)\ce445a72-4719-48c1-9ce1-56460027ca3f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Patch - WW (Con. Beta Final)\ce445a72-4719-48c1-9ce1-56460027ca3f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\6a5cae64-b3c6-4dd0-98a5-d372da5df674" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\6a5cae64-b3c6-4dd0-98a5-d372da5df674" 
+
+2017/01/27 16:42:29 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\6a5cae64-b3c6-4dd0-98a5-d372da5df674\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\ada4af3c-dfd6-4c7f-aca1-a91b2caad7c0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\ada4af3c-dfd6-4c7f-aca1-a91b2caad7c0" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PS4-FG - AP (Digital Final)\edc9284d-a693-47e3-8ae4-96dc28b3ad13" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PS4-FG - AP (Digital Final)\edc9284d-a693-47e3-8ae4-96dc28b3ad13" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (GAME-EU)\d6deb90a-4e0c-4b2f-b6ff-ef3170cf6903" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - EU (GAME-EU)\d6deb90a-4e0c-4b2f-b6ff-ef3170cf6903" 
+
+2017/01/27 17:03:50 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (GAME-EU)\d6deb90a-4e0c-4b2f-b6ff-ef3170cf6903\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\d277fa69-a440-4053-b236-00e40024520d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-FG - WW (WW)\d277fa69-a440-4053-b236-00e40024520d" 
+
+2017/01/27 17:03:50 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-FG - WW (WW)\d277fa69-a440-4053-b236-00e40024520d\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (GAME-JA)\dca7338f-930c-4732-a49a-94e68c4141aa" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - AP (GAME-JA)\dca7338f-930c-4732-a49a-94e68c4141aa" 
+
+2017/01/27 17:03:50 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - AP (GAME-JA)\dca7338f-930c-4732-a49a-94e68c4141aa\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW\b07e4f80-2066-4981-b6d7-8b2c218385c1" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\b07e4f80-2066-4981-b6d7-8b2c218385c1" 
+
+2017/01/27 17:03:50 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-Server - WW\b07e4f80-2066-4981-b6d7-8b2c218385c1\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\1b886f6b-f99d-4412-944b-3ff0aad1de28" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\1b886f6b-f99d-4412-944b-3ff0aad1de28" 
+
+2017/01/27 17:03:50 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\1b886f6b-f99d-4412-944b-3ff0aad1de28\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PS4-Patch - AP (Final)\54f8d0b2-8077-46a5-a959-d8cb4c465a0b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PS4-Patch - AP (Final)\54f8d0b2-8077-46a5-a959-d8cb4c465a0b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Patch - WW (Final)\fba54cfb-c634-4247-80ec-e276d1186cd8" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Patch - WW (Final)\fba54cfb-c634-4247-80ec-e276d1186cd8" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\2446c04a-2fe8-49cd-b20d-de2a2074e3b2" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - NA TcUsFrBpEs (Disc Final)\2446c04a-2fe8-49cd-b20d-de2a2074e3b2" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\e8d51a21-af74-4837-98df-8baa8ea777d3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\e8d51a21-af74-4837-98df-8baa8ea777d3" 
+
+2017/01/27 18:04:22 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\e8d51a21-af74-4837-98df-8baa8ea777d3\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\99fdf392-d7ca-4129-ac21-5b5dba4583ba" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\99fdf392-d7ca-4129-ac21-5b5dba4583ba" 
+
+2017/01/27 18:04:22 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\99fdf392-d7ca-4129-ac21-5b5dba4583ba\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\867bb3e7-f21c-496e-a0c3-1c325ea21ae3" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\867bb3e7-f21c-496e-a0c3-1c325ea21ae3" 
+
+2017/01/27 18:04:22 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\867bb3e7-f21c-496e-a0c3-1c325ea21ae3\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Windows)\8d3a6dc9-b4b9-4020-9dfa-8d449191d7c2" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Windows)\8d3a6dc9-b4b9-4020-9dfa-8d449191d7c2" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\8357c945-8725-47ab-9fc9-10b0ab4589b5" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\8357c945-8725-47ab-9fc9-10b0ab4589b5" 
+
+2017/01/27 18:05:48 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\8357c945-8725-47ab-9fc9-10b0ab4589b5\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\180ef19c-0298-49fc-bc39-adf887631cea" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\180ef19c-0298-49fc-bc39-adf887631cea" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Demo - WW (Con. Beta Digital Final)\f418b680-2b27-4998-ba8c-59e6ef21e179" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Demo - WW (Con. Beta Digital Final)\f418b680-2b27-4998-ba8c-59e6ef21e179" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\19c02f6a-74a8-49af-8708-e662726f2986" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\19c02f6a-74a8-49af-8708-e662726f2986" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\6d6f8375-b813-406f-8993-65e936e51b17" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\6d6f8375-b813-406f-8993-65e936e51b17" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\X720-Demo - WW (Con. Beta Digital Final)\a88d4b25-9d05-4f65-a735-84599d33562c" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\X720-Demo - WW (Con. Beta Digital Final)\a88d4b25-9d05-4f65-a735-84599d33562c" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PS4-FG - NA (Digital Final)\01ac9f31-2b98-4ea2-9e8e-6c46ec5f1349" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PS4-FG - NA (Digital Final)\01ac9f31-2b98-4ea2-9e8e-6c46ec5f1349" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\ad8943fb-c3f9-4974-bcd6-8e0ac1681a95" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\ad8943fb-c3f9-4974-bcd6-8e0ac1681a95" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\4dac6e87-aa5c-4857-b1ee-c596d82d7063" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\4dac6e87-aa5c-4857-b1ee-c596d82d7063" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\987cc45c-3d3a-45c2-84a9-fb91987ce975" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\987cc45c-3d3a-45c2-84a9-fb91987ce975" 
+
+2017/01/27 18:50:59 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\987cc45c-3d3a-45c2-84a9-fb91987ce975\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\f1e38166-3327-4fe1-b3fc-c17c6efbb3fe" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\f1e38166-3327-4fe1-b3fc-c17c6efbb3fe" 
+
+2017/01/27 18:50:59 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Patch - WW (GAME-WW)\f1e38166-3327-4fe1-b3fc-c17c6efbb3fe\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PS4-Patch - EU (Final)\7c252a80-0047-4086-9580-841e7adff6ed" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PS4-Patch - EU (Final)\7c252a80-0047-4086-9580-841e7adff6ed" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PC-Patch - WW (Final)\c3e91ca9-4019-46ed-8896-de123db5564d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Patch - WW (Final)\c3e91ca9-4019-46ed-8896-de123db5564d" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP1\PC-Server - WW (Linux)\bb412500-8835-46c6-999a-f02a74151d55" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Linux)\bb412500-8835-46c6-999a-f02a74151d55" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Linux)\f88249b7-238f-4b26-9949-f43a71f3eb5f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Linux)\f88249b7-238f-4b26-9949-f43a71f3eb5f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\33da2e7f-7c6a-41f0-a515-d3621cfe5e9f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\33da2e7f-7c6a-41f0-a515-d3621cfe5e9f" 
+
+2017/01/27 19:31:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\33da2e7f-7c6a-41f0-a515-d3621cfe5e9f\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\c65f6a67-d622-4f51-88be-4cd01663d91b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\c65f6a67-d622-4f51-88be-4cd01663d91b" 
+
+2017/01/27 19:31:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\c65f6a67-d622-4f51-88be-4cd01663d91b\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\2891958a-31ca-4593-b1b0-72110480181d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\2891958a-31ca-4593-b1b0-72110480181d" 
+
+2017/01/27 19:31:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\2891958a-31ca-4593-b1b0-72110480181d\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\281bb9ea-ad0b-4d51-906d-9d68fd3a689b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\281bb9ea-ad0b-4d51-906d-9d68fd3a689b" 
+
+2017/01/27 19:31:47 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PC-FG - WW\281bb9ea-ad0b-4d51-906d-9d68fd3a689b\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Whiteshark XP1\PC-Server - WW (Linux)\c275f208-5f27-4eab-811f-37cacc5d69de" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP1\PC-Server - WW (Linux)\c275f208-5f27-4eab-811f-37cacc5d69de" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\e5221d5a-d49e-46db-8260-9125c7d6b27d" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\e5221d5a-d49e-46db-8260-9125c7d6b27d" 
+
+2017/01/27 19:33:03 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\X720-Patch - WW (GAME-WW)\e5221d5a-d49e-46db-8260-9125c7d6b27d\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\34f03888-5e13-4ca6-8ebd-8b28d1392222" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\34f03888-5e13-4ca6-8ebd-8b28d1392222" 
+
+2017/01/27 19:33:03 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - EU (GAME-EU)\34f03888-5e13-4ca6-8ebd-8b28d1392222\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\58044276-ad63-4bfe-b571-b0d92daa5991" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\58044276-ad63-4bfe-b571-b0d92daa5991" 
+
+2017/01/27 19:33:03 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need for Speed Genesis\PS4-Patch - AP (GAME-RoA)\58044276-ad63-4bfe-b571-b0d92daa5991\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Pamplona\PS4-FG - AP UsJp (Disc Final)\9291e635-8d18-465c-aee0-3d0e4506680b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Pamplona\PS4-FG - AP UsJp (Disc Final)\9291e635-8d18-465c-aee0-3d0e4506680b" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Battlefield 4 Sparta\PC-FG - WW (Soft Launch R2)\f605db46-c650-497d-aa86-ea5e1c272d65" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 4 Sparta\PC-FG - WW (Soft Launch R2)\f605db46-c650-497d-aa86-ea5e1c272d65" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura2\Need For Speed Hashtag\PC-FG - WW\13e35230-aa85-4bb6-9f36-751e0d906d67" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need For Speed Hashtag\PC-FG - WW\13e35230-aa85-4bb6-9f36-751e0d906d67" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\9b1555e5-3e85-4547-bdcc-e0a68d789b61" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\9b1555e5-3e85-4547-bdcc-e0a68d789b61" 
+
+2017/01/27 20:58:10 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\9b1555e5-3e85-4547-bdcc-e0a68d789b61\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\5c00b1c7-1101-4f45-8e92-bb622ea60b17" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\5c00b1c7-1101-4f45-8e92-bb622ea60b17" 
+
+2017/01/27 20:58:10 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\5c00b1c7-1101-4f45-8e92-bb622ea60b17\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Battlefield 3 XP5 - End Game\PC-Patch - NA TcCsEnUsFrDeItJpKoPlEsMx (MP Update)\f116fb98-63b6-4c2f-953c-87d7df04b55e" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Battlefield 3 XP5 - End Game\PC-Patch - NA TcCsEnUsFrDeItJpKoPlEsMx (MP Update)\f116fb98-63b6-4c2f-953c-87d7df04b55e" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\fdebf758-5a85-4298-bcbb-547a1271b470" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\fdebf758-5a85-4298-bcbb-547a1271b470" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\06ceb284-cb96-4760-9167-561b113ffc36" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\06ceb284-cb96-4760-9167-561b113ffc36" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PS4-FG - NA (Digital Final)\83bda1ac-ab58-48b1-9317-b649a1398c50" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PS4-FG - NA (Digital Final)\83bda1ac-ab58-48b1-9317-b649a1398c50" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\dde3b414-7913-4f26-9daa-6b15fd7c86ae" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\dde3b414-7913-4f26-9daa-6b15fd7c86ae" 
+
+2017/01/27 22:47:32 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Patch - NA (GAME-NA)\dde3b414-7913-4f26-9daa-6b15fd7c86ae\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark XP0\PS4-FG - EU (Loose files)\8557bd2c-685c-41de-8af4-b9f2a723fcc0" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark XP0\PS4-FG - EU (Loose files)\8557bd2c-685c-41de-8af4-b9f2a723fcc0" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\d46c7923-eac0-4a84-ad86-570ec0b74be4" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\d46c7923-eac0-4a84-ad86-570ec0b74be4" 
+
+2017/01/27 23:07:08 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\d46c7923-eac0-4a84-ad86-570ec0b74be4\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\d5d53baa-676e-4cd1-86cf-fca6e0167f84" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\d5d53baa-676e-4cd1-86cf-fca6e0167f84" 
+
+2017/01/27 23:07:08 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\d5d53baa-676e-4cd1-86cf-fca6e0167f84\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - NA\091dd753-f299-4481-b814-0c216e478a6a" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - NA\091dd753-f299-4481-b814-0c216e478a6a" 
+
+2017/01/27 23:07:08 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - NA\091dd753-f299-4481-b814-0c216e478a6a\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\7bed0c66-3415-4daf-862b-6d77650149ce" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\7bed0c66-3415-4daf-862b-6d77650149ce" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\9e749acc-6bd2-44ef-812f-b407aa858121" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-FG - WW\9e749acc-6bd2-44ef-812f-b407aa858121" 
+
+2017/01/27 23:16:51 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-FG - WW\9e749acc-6bd2-44ef-812f-b407aa858121\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - NA\cfeb2caf-8319-4e9f-8ca2-a33664bca5e8" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - NA\cfeb2caf-8319-4e9f-8ca2-a33664bca5e8" 
+
+2017/01/27 23:16:51 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - NA\cfeb2caf-8319-4e9f-8ca2-a33664bca5e8\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PC-Server - WW\bbac8aef-bb4b-44c7-9874-b0d30c50484f" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PC-Server - WW\bbac8aef-bb4b-44c7-9874-b0d30c50484f" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\fbbd743a-70d0-4109-9b8f-47b563019e8e" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\fbbd743a-70d0-4109-9b8f-47b563019e8e" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\456b4af5-74a1-4705-86c3-d831e97e9c67" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\456b4af5-74a1-4705-86c3-d831e97e9c67" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\d70bae25-b189-4a34-8673-488aa100ae70" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\d70bae25-b189-4a34-8673-488aa100ae70" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\f839de6e-9223-41fd-a86f-558dba8a3740" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\f839de6e-9223-41fd-a86f-558dba8a3740" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\ab6148eb-6116-407a-aee4-a9cdb4a65745" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\ab6148eb-6116-407a-aee4-a9cdb4a65745" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Linux)\c14b84cd-1ceb-4ad3-942d-3fe7738f8bbb" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Linux)\c14b84cd-1ceb-4ad3-942d-3fe7738f8bbb" 
+
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (EU)\85822dd9-0f8d-4c6b-972f-e25c84fe172b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - EU (EU)\85822dd9-0f8d-4c6b-972f-e25c84fe172b" 
+
+2017/01/27 23:28:02 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (EU)\85822dd9-0f8d-4c6b-972f-e25c84fe172b\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (EU)\b7eb098b-b1f7-4e2a-bf90-eae1bd0e5626" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-FG - EU (EU)\b7eb098b-b1f7-4e2a-bf90-eae1bd0e5626" 
+
+2017/01/27 23:28:02 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-FG - EU (EU)\b7eb098b-b1f7-4e2a-bf90-eae1bd0e5626\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Server - WW (BETA-Server)\8fa1a1f1-b212-496e-8f81-a55929695f5b" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\PS4-Server - WW (BETA-Server)\8fa1a1f1-b212-496e-8f81-a55929695f5b" 
+
+2017/01/27 23:28:02 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\PS4-Server - WW (BETA-Server)\8fa1a1f1-b212-496e-8f81-a55929695f5b\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Server - WW (BETA-SERVER)\949783bf-1162-4617-a2be-e31c57ad7e04" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Need for Speed Genesis\X720-Server - WW (BETA-SERVER)\949783bf-1162-4617-a2be-e31c57ad7e04" 
+
+2017/01/27 23:28:02 ERROR 2 (0x00000002) Accessing Source Directory \\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Need for Speed Genesis\X720-Server - WW (BETA-SERVER)\949783bf-1162-4617-a2be-e31c57ad7e04\
+The system cannot find the file specified.
+
+C:\ContentMigration\Retention Other\Stockholm>C:\Windows\system32\robocopy.exe /XJD /S /E /NFL /NDL /NP /NJH /NJS /R:10 /W:90 /FFT "\\arn-panzura2.ad.ea.com\cloudfs\ARN-panzura1\Whiteshark\PC-Server - WW (Digital)\c207de5a-0f59-4861-8d22-ddce180d3223" "\\arn-nasuni1.ad.ea.com\arn-nasuni1\Whiteshark\PC-Server - WW (Digital)\c207de5a-0f59-4861-8d22-ddce180d3223" 
+

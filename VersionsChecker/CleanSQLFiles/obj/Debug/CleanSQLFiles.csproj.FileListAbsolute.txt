@@ -1,0 +1,6 @@
+D:\Other VS projects\VersionsChecker\CleanSQLFiles\bin\Debug\CleanSQLFiles.exe.config
+D:\Other VS projects\VersionsChecker\CleanSQLFiles\bin\Debug\CleanSQLFiles.exe
+D:\Other VS projects\VersionsChecker\CleanSQLFiles\bin\Debug\CleanSQLFiles.pdb
+D:\Other VS projects\VersionsChecker\CleanSQLFiles\obj\Debug\CleanSQLFiles.exe
+D:\Other VS projects\VersionsChecker\CleanSQLFiles\obj\Debug\CleanSQLFiles.pdb
+D:\Other VS projects\VersionsChecker\CleanSQLFiles\obj\Debug\CleanSQLFiles.csprojResolveAssemblyReference.cache

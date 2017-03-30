@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAHNNYJ06</Machine>
+    <WindowsUser>sahnnyj</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C3789247E151C2053E442F822BF63CFCF02239D1758F886E9C1E0F8026EB9C4F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c4dcb01d-b488-4495-9b94-d9d8892774e3_1.0.0.0_neutral__53dtm76pxg8p4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c4dcb01d-b488-4495-9b94-d9d8892774e3_53dtm76pxg8p4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c4dcb01d-b488-4495-9b94-d9d8892774e3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sahnnyj</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-24T18:11:22.292</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\bin\Debug\BlogFeedWithCancellation.exe">
+      <PackagePath>BlogFeedWithCancellation.exe</PackagePath>
+      <Modified>2012-09-10T18:50:29.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\bin\Debug\BlogFeedWithCancellation.pdb">
+      <PackagePath>BlogFeedWithCancellation.pdb</PackagePath>
+      <Modified>2012-09-10T18:50:29.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T10:12:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T10:12:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T10:12:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T10:12:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-24T18:08:34.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-14T23:16:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-24T18:10:13.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sahnnyj\Documents\Visual Studio 2012\Projects\BlogFeedWithCancellationCS\BlogFeedWithCancellation\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-24T18:11:22.175</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

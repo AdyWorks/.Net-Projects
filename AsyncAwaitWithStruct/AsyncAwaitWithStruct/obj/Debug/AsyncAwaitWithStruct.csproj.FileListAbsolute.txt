@@ -1,0 +1,6 @@
+D:\Other VS projects\AsyncAwaitWithStruct\AsyncAwaitWithStruct\bin\Debug\AsyncAwaitWithStruct.exe.config
+D:\Other VS projects\AsyncAwaitWithStruct\AsyncAwaitWithStruct\bin\Debug\AsyncAwaitWithStruct.exe
+D:\Other VS projects\AsyncAwaitWithStruct\AsyncAwaitWithStruct\bin\Debug\AsyncAwaitWithStruct.pdb
+D:\Other VS projects\AsyncAwaitWithStruct\AsyncAwaitWithStruct\obj\Debug\AsyncAwaitWithStruct.csprojResolveAssemblyReference.cache
+D:\Other VS projects\AsyncAwaitWithStruct\AsyncAwaitWithStruct\obj\Debug\AsyncAwaitWithStruct.exe
+D:\Other VS projects\AsyncAwaitWithStruct\AsyncAwaitWithStruct\obj\Debug\AsyncAwaitWithStruct.pdb

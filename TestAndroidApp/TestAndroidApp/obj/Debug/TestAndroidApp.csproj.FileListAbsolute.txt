@@ -1,0 +1,14 @@
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.pdb
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.TestAndroidApp.apk
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.TestAndroidApp-Signed.apk
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\TestAndroidApp.dll
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\TestAndroidApp.pdb
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\android\bin\TestAndroidApp.TestAndroidApp.apk
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\res\layout\main.xml
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\res\values\strings.xml
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\res\drawable\icon.png
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\R.cs.flag
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\uploadflags.txt
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\obj\Debug\TestAndroidApp.dll.mdb
+D:\Other VS projects\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.dll.mdb
